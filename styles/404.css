@@ -1,0 +1,6 @@
+body { background-color: #4f4f4f;}
+h1 { font-size: 45px; color: #eee; font-weight: bold; margin: auto; display: block;}
+p { font-size: 25px; color: #eee; font-weight: bold;}
+#index { text-decoration: none; color: red;}
+#sorry { display: block; position: absolute; margin: auto; bottom: 50px;}
+img { margin: auto; height: 450px; display: block;  position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px; border-radius: 10px; border: 4px solid black;}
