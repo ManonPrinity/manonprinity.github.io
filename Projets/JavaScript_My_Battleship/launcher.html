@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>My BattleShip</title>
+        <link rel="stylesheet" href="css/launcher.css">
+    </head>
+    <body onload="init_storage()">
+        <div id="main_div">
+            <h1>BATTLESHIP</h1>
+            <div id="difficulty">
+                <span onclick="select_difficulty(1, this)">Easy</span>
+                <span onclick="select_difficulty(2, this)" class="selected">Medium</span>
+                <span onclick="select_difficulty(3, this)">Hard</span>
+            </div>
+            <div id="turn">
+                <span onclick="select_turn(1, this)" class="selected">Play first</span>
+                <span onclick="select_turn(2, this)">Play second</span>
+            </div>
+            <a href="index.html">Play</a>
+        </div>
+        <script src="js/launcher.js"></script>
+    </body>
+</html>

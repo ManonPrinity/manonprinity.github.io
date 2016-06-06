@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Slider</title>
+	</head>
+ 
+	<body>
+		<div id="mainDiv">
+			<div id="slider">
+				<div id="slides">
+					<img class="slide" src="img/kirby.jpg" />
+					<img class="slide" src="img/mario.jpg" />
+					<img class="slide" src="img/metroid.jpg" />
+					<img class="slide" src="img/pokemon.jpg" />
+					<img class="slide" src="img/zelda.jpg" />
+					
+				</div>
+				<img id="leftArrow" class="arrow" src="img/arrowLeft.svg"/>
+				<img id="rightArrow" class="arrow" src="img/arrowRight.svg"/>
+				<div id="bullets">
+				</div>
+				<div id="miniatures">
+
+				</div>
+			</div>
+			<select id="sliderMode">
+				<option value="0">Left / Right</option>
+				<option value="1">Top / Down</option>
+				<option value="2">Opacity</option>
+			</select>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script> 
+		<script type="text/javascript" src="script.js"></script>
+	</body>
+</html>

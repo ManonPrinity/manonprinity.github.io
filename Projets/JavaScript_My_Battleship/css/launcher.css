@@ -1,0 +1,13 @@
+body { background-image: url("../img/background_boat.jpg"); background-size: 100% auto; font-size: 0px;}
+    #main_div { display: block; position: absolute; top: 0; bottom: 0; left: 0; right: 0; width: 280px; height: 205px; margin: auto; background: rgba(255, 255, 255, 0.8); box-shadow: 0px 0px 4px #000; text-align: center;}
+        #main_div h1 { display: block; margin: 10px 0px 5px 0px; font-size: 32px;}
+        #difficulty { display: block; padding: 5px;}
+            #difficulty span { display: inline-block; vertical-align: top; box-sizing: border-box; width: 80px; height: 32px; line-height: 29px; margin: 5px; border: 3px solid #aaa; background: rgba(255, 255, 255, 0.9); font-size: 16px; cursor: pointer;}
+            #difficulty span:nth-child(1) { color: #0a3;}
+            #difficulty span:nth-child(2) { color: #c90;}
+            #difficulty span:nth-child(3) { color: #c50;}
+            #difficulty .selected { border-color: #333;}
+        #turn { display: block; padding: 0px 5px;}
+            #turn span { display: inline-block; vertical-align: top; box-sizing: border-box; width: 125px; height: 32px; line-height: 29px; margin: 5px; border: 3px solid #aaa; background: rgba(255, 255, 255, 0.9); font-size: 16px; cursor: pointer;}
+            #turn .selected { border-color: #333;}
+        #main_div a { display: block; box-sizing: border-box; width: 260px; height: 32px; line-height: 29px; margin: 10px; border: 3px solid #555; background: rgba(255, 255, 255, 0.9); font-size: 16px; color: #000; text-decoration: none;}

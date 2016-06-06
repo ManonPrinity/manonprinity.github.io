@@ -1,0 +1,152 @@
+html 
+{
+	margin: 0px; 
+	padding: 0px;
+}
+body 
+{ 
+	margin: 0px; 
+	padding: 0px; 
+	background: #eee; 
+	font-size: 0px; 
+	color: #333;
+}
+
+#mainDiv 
+{ 
+	display: block; 
+	width: 800px; 
+	margin: auto; 
+	text-align: center;
+}
+
+#slider 
+{ 
+	display: block; 
+	position: relative; 
+	margin: auto; 
+	overflow: hidden;
+}
+
+#slides 
+{ 
+	display: block; 
+	width: 796px; 
+	height: 600px; 
+	border: 2px solid #333; 
+	border-bottom: 1px solid #333; 
+	overflow: hidden;
+}
+
+#slides img 
+{ 
+	display: block; 
+	position: absolute; 
+	z-index: -1; 
+	width: 800px; 
+	height: 600px; 
+	transition: all 0.5s;
+}
+
+.arrow 
+{ 
+	display: block; 
+	position: absolute; 
+	z-index: 2; 
+	width: 50px; 
+	height: 50px; 
+	padding: 5px; 
+	background: #000; 
+	opacity: 0.7; 
+	cursor: pointer; 
+	transition: all 0.2s;
+}
+
+#leftArrow 
+{ 
+	top: 275px; 
+	left: 0px;
+}
+
+#leftArrow:hover 
+{ 
+	top: 270px; 
+	width: 60px; 
+	height: 60px;
+}
+
+#rightArrow 
+{ 
+	top: 275px; 
+	right: 0px;
+}
+
+#rightArrow:hover 
+{ 
+	top: 270px; 
+	width: 60px; 
+	height: 60px;
+}
+
+#bullets 
+{ 
+	display: block; 
+	position: absolute; 
+	z-index: 2; 
+	top: 560px; 
+	width: 800px; 
+	height: 42px; 
+	background: #000; 
+	opacity: 0.7; 
+	text-align: center;
+}
+
+.bullet 
+{ 
+	display: inline-block; 
+	vertical-align: top; 
+	width: 20px; 
+	height: 20px; 
+	border-radius: 50%; 
+	margin: 11px 5px; 
+	background: #eee; 
+	cursor: pointer;
+}
+
+.activeBullet 
+{ 
+	background: #f33;
+}
+
+#miniatures 
+{ 
+	display: block; 
+	width: 798px; 
+	border: 1px solid #333; 
+	background: #333;
+}
+
+.miniature 
+{ 
+	display: inline-block; 
+	vertical-align: top; 
+	border: 1px solid #333; 
+	cursor: pointer;
+}
+
+.activeMiniature 
+{ 
+	border-color: #c55;
+}
+
+#sliderMode 
+{ 
+	display: block; 
+	float: left; 
+	width: 200px; 
+	height: 40px; 
+	margin-top: 10px; 
+	padding: 5px; 
+	border: 1px solid #333; 
+	border-right: none;
+}

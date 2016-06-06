@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Pokedex</title>
+		<link rel="stylesheet" href="public/css/style.css"/>
+		<link rel="stylesheet" href="public/css/index.css"/>
+		<link rel="icon" type="img/png" href="public/img/pokeball.png"/>
+	</head>
+ 
+	<body onload="init();" ng-app>
+		<div id="main_div">
+			<div id="middle_div"></div>
+			<div id="pokedex" ng-controller="pokedex_ctrl">
+				<div id="background"></div>
+				<div id="screen_1">
+					<div></div>
+					<img id="pokemon_img" src="public/img/front/1.png">
+					<p id="pokemon_id"></p>
+				</div>
+				<div id="inputs_screen_1">
+					<input id="a_button" type="button" ng-click="a_button_click()"/>
+					<input id="select_button" type="button" ng-click="select_button_click()"/>
+					<input id="start_button" type="button" ng-click="start_button_click()"/>
+					<input id="up_button" type="button" ng-click="up_button_click()"/>
+					<input id="down_button" type="button" ng-click="down_button_click()"/>
+					<input id="left_button" type="button" ng-click="left_button_click()"/>
+					<input id="right_button" type="button" ng-click="right_button_click()"/>
+					<input id="text_input" type="text" autofocus autocomplete="off" onkeydown="text_input_changed(event, this.value);"/>
+				</div>
+				<div id="text_input_bg"></div>
+
+				<div id="screen_2">
+					<section id="page_1">
+						<p class="name">{{name}}</p>
+						<div class="species">
+							<p>Species : </p>
+							<p>{{species}}</p>
+						</div>
+						<div class="types">
+							<p>Types : </p>
+							<p>{{types}}</p>
+						</div>
+					</section>
+					<section id="page_2">
+						<div class="height">
+							<p>Height : </p>
+							<p>{{height}}</p>
+						</div>
+						<div class="weight">
+							<p>Weight : </p>
+							<p>{{weight}}</p>
+						</div>
+						<div class="abilities">
+							<p>Abilities : </p>
+							<p>{{abilities}}</p>
+						</div>
+					</section>
+					<section id="page_3">
+						<h2>STATS :</h2>
+						<div class="hp">
+							<p>hp :</p>
+							<p>{{hp}}</p>
+						</div>
+						<div class="attack">
+							<p>attack :</p>
+							<p>{{attack}}</p>
+						</div>
+						<div class="defense">
+							<p>defense :</p>
+							<p>{{defense}}</p>
+						</div>
+						<div class="spatk">
+							<p>sp.atk :</p>
+							<p>{{spatk}}</p>
+						</div>
+						<div class="spdef">
+							<p>spe.def :</p>
+							<p>{{spdef}}</p>
+						</div>
+						<div class="speed">
+							<p>speed :</p>
+							<p>{{speed}}</p>
+						</div>
+						<div class="total">
+							<p>total :</p>
+							<p>{{total}}</p>
+						</div>
+					</section>
+					<section id="page_4">
+						<h2>EVOLUTION :</h2>
+						<p class="evolution">{{evolution}}</p>
+					</section>
+				</div>
+				<div id="inputs_screen_2">
+					<input id="b_button" type="button" ng-click="b_button_click()"/>
+					<input id="c_button" type="button" ng-click="c_button_click()"/>
+					<input id="prev_button" type="button" ng-click="prev_button_click()"/>
+					<input id="next_button" type="button" ng-click="next_button_click()"/>
+					<input id="op1_button" type="button" ng-click="op1_button_click()"/>
+					<input id="op2_button" type="button" ng-click="op2_button_click()"/>
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="public/json/pokemons.js"></script>
+		<script type="text/javascript" src="public/js/angular_v1.0.3.js"></script>
+		<script type="text/javascript" src="public/js/app.js"></script>
+	</body>
+</html>
