@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Manon Noblet</title>
+		<!-- <link rel="stylesheet" type="text/css" href="styles/style.css"/> -->
+		<!-- <link rel="stylesheet" type="text/css" href="styles/index.css"/> -->
+	</head>
+	<body>
+		<p>Yo !</p>
+		<!-- <header id="main_header">
+			<h1>Manon Noblet</h1>
+			<p class="slogan">Developpeur web Junior</p>
+			<div></div>
+			<a class="cv" href="cv.pdf">
+				<span class="icon"></span>
+				<span class="content">Mon CV a telecharger ici</span>
+			</a>
+			<p>MANON, 23 ans</p>
+			<p id="acc"><b>« Réussir sa vie est avant tout une question de volonté »</b></p>
+			<p class="presentation">
+				J’ai pris mon autonomie très tôt, ce qui m’a conduite à travailler dès l’âge de 16 ans. J’ai été peintre en bâtiment plusieurs années, puis on m’a diagnostiqué un problème de dos chronique. Comme il me devenait difficile d’effectuer certains travaux, j’ai dû me résoudre à arrêter. J’ai toujours baigné dans l’univers des jeux vidéo, aussi je me suis renseignée pour trouver une formation dans le développement et la programmation. C’est comme ça que j’ai entendu parler du Samsung Campus. Même si ma vie n’a pas toujours été facile et qu’il a fallu que je me batte, je m’accroche toujours pour atteindre les objectifs que je me suis fixée. Et mon objectif aujourd’hui, c’est de réussir dans le développement web.
+			</p>
+			<a class="samsung" href="https://campus.samsung.fr/temoignages.php">Temoignages ICI, sur le site du Samsung Campus</a>
+		</header>
+
+		<nav id="main_nav">
+			<a href="#skills_section">Competences</a>
+			<a href="#projects_section">Projets</a>
+			<a href="#contact_section">Contact</a>
+		</nav>
+
+		<section id="skills_section">
+			<h2>Competences</h2>
+			<p id="skill_precision">Survolez mes competances pour plus d'informations</p>
+			<div onmouseleave="hide_skill();">
+				<img onmouseover="display_skill('html5');" src="img/skills/html5.png" alt="html5">
+				<img onmouseover="display_skill('css3');" src="img/skills/css3.png" alt="css3">
+				<img onmouseover="display_skill('javascript');" src="img/skills/javascript.png" alt="javascript">
+				<img onmouseover="display_skill('angular');" src="img/skills/angular.png" alt="angular">
+				<img onmouseover="display_skill('nodejs');" src="img/skills/nodejs.png" alt="nodejs">
+				<img onmouseover="display_skill('mongodb');" src="img/skills/mongodb.png" alt="mongodb">
+				<img onmouseover="display_skill('php');" src="img/skills/php.png" alt="php">
+				<img onmouseover="display_skill('photoshop');" src="img/skills/photoshop.png" alt="photoshop">
+				<img onmouseover="display_skill('cordova');" src="img/skills/cordova.png" alt="cordova">
+				<img onmouseover="display_skill('jquery');" src="img/skills/jquery.png" alt="jquery">
+				<img onmouseover="display_skill('sql');" src="img/skills/sql.png" alt="sql">
+				<img onmouseover="display_skill('C');" src="img/skills/C.png" alt="C">
+			</div>
+		</section>
+
+		<section id="projects_section">
+			<h2>Projets</h2>
+			<div class="project">
+				<img src="img/pokemon.png" alt="javascript">
+				<div>
+					<p class="title">Pokedex</p>
+					<p class="technos">AngularJS</p>
+					<p class="description">Un Pokedex avec Javascript et AngularJS. Mon premier projet Angular!</p>
+				</div>
+				<a href="Projets/Pokedex/index.html">Voir</a>
+			</div>
+
+			<div class="project">
+				<img src="img/2048.png" alt="javascript">
+				<div>
+					<p class="title">2048 Zen Mode</p>
+					<p class="technos">JavaScript</p>
+					<p class="description">Revu du celebre jeu sur PC et mobil, le 2048.</p>
+				</div>
+				<a href="Projets/2048-2/index.html">Voir</a>
+			</div>
+
+			<div class="project">
+				<img src="img/paint.png" alt="javascript">
+				<div>
+					<p class="title">Paintixel</p>
+					<p class="technos">JavaScript</p>
+					<p class="description">Un paint en JavaScript, plutot pour faire du PixelArt que du dessin.</p>
+				</div>
+				<a href="Projets/JavaScript_Avance_my_paint/index.html">Voir</a>
+			</div>
+
+			<div class="project">
+				<img src="img/battle.png" alt="javascript">
+				<div>
+					<p class="title">BattleShip</p>
+					<p class="technos">JavaScript</p>
+					<p class="description">BattleShip, premier projet en Objet JavaScript.</p>
+				</div>
+				<a href="Projets/JavaScript_My_Battleship/launcher.html">Voir</a>
+			</div>
+
+			<div class="project">
+				<img src="img/" alt="javascript">
+				<div>
+					<p class="title">Titre du projet</p>
+					<p class="technos">Stack MEAN</p>
+					<p class="description">Description du projet</p>
+				</div>
+				<a href="#">Voir</a>
+			</div>
+		</section>
+
+		<section id="contact_section">
+			<h2>Contact</h2>
+			<form action="mail">
+				<input type="text" name="name" placeholder="nom">
+				<input type="email" name="email" placeholder="email">
+				<textarea name="content" height="500" placeholder="message"></textarea>
+				<input type="submit" value="Envoyer">
+				<input type="reset" value="Reset">
+			</form>
+			<a href="#" title="Haut de page" class="scrollup"><img src="img/top.svg"></a>
+		</section>
+
+		<footer id="main_footer">
+			<p class="follow">Retrouvez moi sur :</p>
+			<div>
+				<a href="https://github.com/ManonPrinity/"><img src="img/social/github.svg"></a>
+				<a href="https://www.linkedin.com/in/manon-prinity-860565106"><img src="img/social/linkedin.svg"></a>
+				<a href="https://plus.google.com/u/0/107033360869376441537/posts"><img src="img/social/google.svg"></a>
+				<a href="#"><img src="img/social/facebook.svg"></a>
+			</div>
+			<p class="sign">Manon Noblet</p>
+		</footer> -->
+
+		<!-- <script src="/socket.io/socket.io.js"></script> -->
+		<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		<script type="text/javascript" src="scripts/skill.js"></script>
+		<script type="text/javascript" src="scripts/scroll.js"></script>
+		<script type="text/javascript" src="scripts/scrolltop.js"></script> -->
+	</body>
+</html>
