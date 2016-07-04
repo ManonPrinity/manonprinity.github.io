@@ -1,6 +1,6 @@
-#main_header { box-sizing: border-box; position: relative; min-height: calc(100% - 128px); padding: 64px 0px; border-bottom: 1px solid #ccc; background-image: url("../img/symphony.png"); box-shadow: 0px 0px 4px #777; text-align: center;}
+#main_header {animation: header_anim 10s linear infinite; box-sizing: border-box; position: relative; min-height: calc(100% - 128px); padding: 64px 0px; border-bottom: 1px solid #ccc; background-image: url("../img/symphony.png"); box-shadow: 0px 0px 4px #777; text-align: center;}
 	#main_header > h1 { font-size: 64px;}
-	#main_header > p { font-size: 16px;}
+	#main_header > p {	text-shadow: 0px 1px #333; font-size: 16px;}
 	#main_header > p.slogan #acc { margin-bottom: 10px; }
 	#main_header > p.slogan { max-width: 600px; margin: 16px auto;}
 	#main_header > p.presentation { max-width: 600px; line-height: 24px; margin: auto; font-style: italic;}
@@ -59,4 +59,10 @@ section { padding: 32px 0px; text-align: center;}
 .scrollup { width: 70px; height: 70px; position: fixed; bottom: 50px; right: 50px; display: none;  font-size: 20px; text-align: center; line-height: 37px; }
 	.scrollup > img { width: 70px; height: 70px; }
 	.scrollup > img:hover {  }
+
+@keyframes header_anim
+{
+	from { background-position: 0px 0px}
+	to { background-position: 300px 0px}
+}
 
