@@ -3,9 +3,8 @@
 	#main_header > p {	text-shadow: 0px 1px #333; font-size: 16px;}
 	#main_header > p.slogan #acc { margin-bottom: 10px; }
 	#main_header > p.slogan { max-width: 600px; margin: 16px auto;}
-	#main_header > p.presentation { max-width: 600px; line-height: 24px; margin: auto; font-style: italic;}
 		.samsung { font-size: 16px; padding: 10px;}
-	#main_header > div { display: block; width: 128px; height: 128px; margin: 64px auto 0px auto; background-color: #ccc; background-image: url("../img/moi.png"); background-size: 128px 128px; box-shadow: 0px 0px 4px #333 inset;}
+	#main_header > div { display: block; width: 128px; height: 128px; margin: 64px auto 0px auto; background-color: #ccc; background-image: url(""); background-size: 128px 128px; box-shadow: 0px 0px 4px #333 inset;}
 	#main_header > .cv { display: block; max-width: 300px; height: 64px; line-height: 64px; margin: 64px auto; border-bottom: 4px solid #c44; background-color: #c55; color: #fff; text-decoration: none;}
 		#main_header > .cv .icon { display: inline-block; vertical-align: top; width: 64px; height: 64px; background-image: url("../img/cv.svg"); background-size: 42px 42px; background-position: 50% 50%; background-repeat: no-repeat;}
 		#main_header > .cv .content { display: inline-block; vertical-align: top; box-sizing: border-box; width: calc(100% - 64px); height: 64px; border-left: 2px solid #c44; font-size: 16px;}
@@ -13,7 +12,7 @@
 		#main_header > .git .icon { display: inline-block; vertical-align: top; width: 64px; height: 64px; background-image: url("../img/social/git.svg"); background-size: 42px 42px; background-position: 50% 50%; background-repeat: no-repeat;}
 		#main_header > .git .content { display: inline-block; vertical-align: top; box-sizing: border-box; width: calc(100% - 64px); height: 64px; border-left: 2px solid black; font-size: 16px;}
 #main_nav { box-sizing: border-box; height: 128px; border-bottom: 1px solid #aaa; background-color: #e0e0e0;}
-	#main_nav > a { display: inline-block; vertical-align: top; box-sizing: border-box; width: 33.333%; height: 128px; line-height: 128px; border-left: 1px solid #ccc; font-size: 20px; text-align: center; color: #333; text-decoration: none; transition: color 250ms ease;}
+	#main_nav > a { display: inline-block; vertical-align: top; box-sizing: border-box; width: 24.59%; height: 128px; line-height: 128px; border-left: 1px solid #ccc; font-size: 20px; text-align: center; color: #333; text-decoration: none; transition: color 250ms ease;}
 	#main_nav > a:hover { color: #c55;}
 	#main_nav > a:first-child { border-left: none;}
 
@@ -25,6 +24,16 @@ section { padding: 32px 0px; text-align: center;}
 	#skills_section p { margin: 64px 0px; font-size: 16px;}
 	#skills_section img { display: inline-block; vertical-align: top; width: 100px; margin: 20px; padding-bottom: 10px; border-bottom: 2px solid #ddd; cursor: pointer;}
 	#skills_section img:hover { border-color: #c55;}
+
+#bio_section {}
+	#bio_section > #conference {}
+		#bio_section > #conference > h3 { font-size: 25px; margin-bottom: 30px; }
+		#bio_section > #conference > h4 { font-size: 20px;  }
+		#bio_section > #conference > p { font-size: 16px; }
+	#bio_section > #emploi {}
+		#bio_section > #emploi > h3 { font-size: 25px; margin-bottom: 30px; }
+		#bio_section > #emploi > h4 { font-size: 20px;  }
+		#bio_section > #emploi > p { font-size: 16px; }
 
 #projects_section { border-bottom: 1px solid #ccc; background: #eee;}
 	#projects_section > h2{ margin-bottom: 20px;}
