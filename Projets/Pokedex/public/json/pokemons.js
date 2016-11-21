@@ -14,12 +14,12 @@ var pokemon_list =
       "Overgrow",
       "Chlorophyll"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 49,
       "defense": 49,
-      "spatk": 65,
-      "spdef": 65,
+      "sp.atk": 65,
+      "sp.def": 65,
       "speed": 45,
       "total": 318
     },
@@ -43,12 +43,12 @@ var pokemon_list =
       "Overgrow",
       "Chlorophyll"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 62,
       "defense": 63,
-      "spatk": 80,
-      "spdef": 80,
+      "sp.atk": 80,
+      "sp.def": 80,
       "speed": 60,
       "total": 405
     },
@@ -72,12 +72,12 @@ var pokemon_list =
       "Overgrow",
       "Chlorophyll"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 82,
       "defense": 83,
-      "spatk": 100,
-      "spdef": 100,
+      "sp.atk": 100,
+      "sp.def": 100,
       "speed": 80,
       "total": 525
     },
@@ -100,12 +100,12 @@ var pokemon_list =
       "Blaze",
       "Solar Power"
     ],
-    "d": {
+    "stats": {
       "hp": 39,
       "attack": 52,
       "defense": 43,
-      "spatk": 60,
-      "spdef": 50,
+      "sp.atk": 60,
+      "sp.def": 50,
       "speed": 65,
       "total": 309
     },
@@ -128,12 +128,12 @@ var pokemon_list =
       "Blaze",
       "Solar Power"
     ],
-    "d": {
+    "stats": {
       "hp": 58,
       "attack": 64,
       "defense": 58,
-      "spatk": 80,
-      "spdef": 65,
+      "sp.atk": 80,
+      "sp.def": 65,
       "speed": 80,
       "total": 405
     },
@@ -157,12 +157,12 @@ var pokemon_list =
       "Blaze",
       "Solar Power"
     ],
-    "d": {
+    "stats": {
       "hp": 78,
       "attack": 84,
       "defense": 78,
-      "spatk": 109,
-      "spdef": 85,
+      "sp.atk": 109,
+      "sp.def": 85,
       "speed": 100,
       "total": 534
     },
@@ -185,12 +185,12 @@ var pokemon_list =
       "Torrent",
       "Rain Dish"
     ],
-    "d": {
+    "stats": {
       "hp": 44,
       "attack": 48,
       "defense": 65,
-      "spatk": 50,
-      "spdef": 64,
+      "sp.atk": 50,
+      "sp.def": 64,
       "speed": 43,
       "total": 314
     },
@@ -213,12 +213,12 @@ var pokemon_list =
       "Torrent",
       "Rain Dish"
     ],
-    "d": {
+    "stats": {
       "hp": 59,
       "attack": 63,
       "defense": 80,
-      "spatk": 65,
-      "spdef": 80,
+      "sp.atk": 65,
+      "sp.def": 80,
       "speed": 58,
       "total": 405
     },
@@ -241,12 +241,12 @@ var pokemon_list =
       "Torrent",
       "Rain Dish"
     ],
-    "d": {
+    "stats": {
       "hp": 79,
       "attack": 83,
       "defense": 100,
-      "spatk": 85,
-      "spdef": 105,
+      "sp.atk": 85,
+      "sp.def": 105,
       "speed": 78,
       "total": 530
     },
@@ -269,12 +269,12 @@ var pokemon_list =
       "Shield Dust",
       "Run Away"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 30,
       "defense": 35,
-      "spatk": 20,
-      "spdef": 20,
+      "sp.atk": 20,
+      "sp.def": 20,
       "speed": 45,
       "total": 195
     },
@@ -296,12 +296,12 @@ var pokemon_list =
     "abilities": [
       "Shed Skin"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 20,
       "defense": 55,
-      "spatk": 25,
-      "spdef": 25,
+      "sp.atk": 25,
+      "sp.def": 25,
       "speed": 30,
       "total": 205
     },
@@ -325,12 +325,12 @@ var pokemon_list =
       "Compound Eyes",
       "Tinted Lens"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 45,
       "defense": 50,
-      "spatk": 90,
-      "spdef": 80,
+      "sp.atk": 90,
+      "sp.def": 80,
       "speed": 70,
       "total": 395
     },
@@ -354,12 +354,12 @@ var pokemon_list =
       "Shield Dust",
       "Run Away"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 35,
       "defense": 30,
-      "spatk": 20,
-      "spdef": 20,
+      "sp.atk": 20,
+      "sp.def": 20,
       "speed": 50,
       "total": 195
     },
@@ -382,12 +382,12 @@ var pokemon_list =
     "abilities": [
       "Shed Skin"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 25,
       "defense": 50,
-      "spatk": 25,
-      "spdef": 25,
+      "sp.atk": 25,
+      "sp.def": 25,
       "speed": 35,
       "total": 205
     },
@@ -411,12 +411,12 @@ var pokemon_list =
       "Swarm",
       "Sniper"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 90,
       "defense": 40,
-      "spatk": 45,
-      "spdef": 80,
+      "sp.atk": 45,
+      "sp.def": 80,
       "speed": 75,
       "total": 395
     },
@@ -441,12 +441,12 @@ var pokemon_list =
       "Tangled Feet",
       "Big Pecks"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 45,
       "defense": 40,
-      "spatk": 35,
-      "spdef": 35,
+      "sp.atk": 35,
+      "sp.def": 35,
       "speed": 56,
       "total": 251
     },
@@ -471,12 +471,12 @@ var pokemon_list =
       "Tangled Feet",
       "Big Pecks"
     ],
-    "d": {
+    "stats": {
       "hp": 63,
       "attack": 60,
       "defense": 55,
-      "spatk": 50,
-      "spdef": 50,
+      "sp.atk": 50,
+      "sp.def": 50,
       "speed": 71,
       "total": 349
     },
@@ -501,12 +501,12 @@ var pokemon_list =
       "Tangled Feet",
       "Big Pecks"
     ],
-    "d": {
+    "stats": {
       "hp": 83,
       "attack": 80,
       "defense": 75,
-      "spatk": 70,
-      "spdef": 70,
+      "sp.atk": 70,
+      "sp.def": 70,
       "speed": 101,
       "total": 479
     },
@@ -530,12 +530,12 @@ var pokemon_list =
       "Run Away",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 56,
       "defense": 35,
-      "spatk": 25,
-      "spdef": 35,
+      "sp.atk": 25,
+      "sp.def": 35,
       "speed": 72,
       "total": 253
     },
@@ -558,12 +558,12 @@ var pokemon_list =
       "Run Away",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 81,
       "defense": 60,
-      "spatk": 50,
-      "spdef": 70,
+      "sp.atk": 50,
+      "sp.def": 70,
       "speed": 97,
       "total": 413
     },
@@ -586,12 +586,12 @@ var pokemon_list =
       "Keen Eye",
       "Sniper"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 60,
       "defense": 30,
-      "spatk": 31,
-      "spdef": 31,
+      "sp.atk": 31,
+      "sp.def": 31,
       "speed": 70,
       "total": 262
     },
@@ -614,12 +614,12 @@ var pokemon_list =
       "Keen Eye",
       "Sniper"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 90,
       "defense": 65,
-      "spatk": 61,
-      "spdef": 61,
+      "sp.atk": 61,
+      "sp.def": 61,
       "speed": 100,
       "total": 442
     },
@@ -642,12 +642,12 @@ var pokemon_list =
       "Shed Skin",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 60,
       "defense": 44,
-      "spatk": 40,
-      "spdef": 54,
+      "sp.atk": 40,
+      "sp.def": 54,
       "speed": 55,
       "total": 288
     },
@@ -670,12 +670,12 @@ var pokemon_list =
       "Shed Skin",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 85,
       "defense": 69,
-      "spatk": 65,
-      "spdef": 79,
+      "sp.atk": 65,
+      "sp.def": 79,
       "speed": 80,
       "total": 438
     },
@@ -697,12 +697,12 @@ var pokemon_list =
       "Static",
       "Lightning Rod"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 55,
       "defense": 40,
-      "spatk": 50,
-      "spdef": 50,
+      "sp.atk": 50,
+      "sp.def": 50,
       "speed": 90,
       "total": 320
     },
@@ -724,12 +724,12 @@ var pokemon_list =
       "Static",
       "Lightning Rod"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 90,
       "defense": 55,
-      "spatk": 90,
-      "spdef": 80,
+      "sp.atk": 90,
+      "sp.def": 80,
       "speed": 110,
       "total": 485
     },
@@ -751,12 +751,12 @@ var pokemon_list =
       "Sand Veil",
       "Sand Rush"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 75,
       "defense": 85,
-      "spatk": 20,
-      "spdef": 30,
+      "sp.atk": 20,
+      "sp.def": 30,
       "speed": 40,
       "total": 300
     },
@@ -778,12 +778,12 @@ var pokemon_list =
       "Sand Veil",
       "Sand Rush"
     ],
-    "d": {
+    "stats": {
       "hp": 75,
       "attack": 100,
       "defense": 110,
-      "spatk": 45,
-      "spdef": 55,
+      "sp.atk": 45,
+      "sp.def": 55,
       "speed": 65,
       "total": 450
     },
@@ -806,12 +806,12 @@ var pokemon_list =
       "Rivalry",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 47,
       "defense": 52,
-      "spatk": 40,
-      "spdef": 40,
+      "sp.atk": 40,
+      "sp.def": 40,
       "speed": 41,
       "total": 275
     },
@@ -835,12 +835,12 @@ var pokemon_list =
       "Rivalry",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 62,
       "defense": 67,
-      "spatk": 55,
-      "spdef": 55,
+      "sp.atk": 55,
+      "sp.def": 55,
       "speed": 56,
       "total": 365
     },
@@ -865,12 +865,12 @@ var pokemon_list =
       "Rivalry",
       "Sheer Force"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 92,
       "defense": 87,
-      "spatk": 75,
-      "spdef": 85,
+      "sp.atk": 75,
+      "sp.def": 85,
       "speed": 76,
       "total": 505
     },
@@ -894,12 +894,12 @@ var pokemon_list =
       "Rivalry",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 46,
       "attack": 57,
       "defense": 40,
-      "spatk": 40,
-      "spdef": 40,
+      "sp.atk": 40,
+      "sp.def": 40,
       "speed": 50,
       "total": 273
     },
@@ -923,12 +923,12 @@ var pokemon_list =
       "Rivalry",
       "Hustle"
     ],
-    "d": {
+    "stats": {
       "hp": 61,
       "attack": 72,
       "defense": 57,
-      "spatk": 55,
-      "spdef": 55,
+      "sp.atk": 55,
+      "sp.def": 55,
       "speed": 65,
       "total": 365
     },
@@ -953,12 +953,12 @@ var pokemon_list =
       "Rivalry",
       "Sheer Force"
     ],
-    "d": {
+    "stats": {
       "hp": 81,
       "attack": 102,
       "defense": 77,
-      "spatk": 85,
-      "spdef": 75,
+      "sp.atk": 85,
+      "sp.def": 75,
       "speed": 85,
       "total": 505
     },
@@ -982,12 +982,12 @@ var pokemon_list =
       "Magic Guard",
       "Friend Guard"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 45,
       "defense": 48,
-      "spatk": 60,
-      "spdef": 65,
+      "sp.atk": 60,
+      "sp.def": 65,
       "speed": 35,
       "total": 323
     },
@@ -1011,12 +1011,12 @@ var pokemon_list =
       "Magic Guard",
       "Unaware"
     ],
-    "d": {
+    "stats": {
       "hp": 95,
       "attack": 70,
       "defense": 73,
-      "spatk": 95,
-      "spdef": 90,
+      "sp.atk": 95,
+      "sp.def": 90,
       "speed": 60,
       "total": 483
     },
@@ -1039,12 +1039,12 @@ var pokemon_list =
       "Flash Fire",
       "Drought"
     ],
-    "d": {
+    "stats": {
       "hp": 38,
       "attack": 41,
       "defense": 40,
-      "spatk": 50,
-      "spdef": 65,
+      "sp.atk": 50,
+      "sp.def": 65,
       "speed": 65,
       "total": 299
     },
@@ -1066,12 +1066,12 @@ var pokemon_list =
       "Flash Fire",
       "Drought"
     ],
-    "d": {
+    "stats": {
       "hp": 73,
       "attack": 76,
       "defense": 75,
-      "spatk": 81,
-      "spdef": 100,
+      "sp.atk": 81,
+      "sp.def": 100,
       "speed": 100,
       "total": 505
     },
@@ -1095,12 +1095,12 @@ var pokemon_list =
       "Cute Charm",
       "Friend Guard"
     ],
-    "d": {
+    "stats": {
       "hp": 115,
       "attack": 45,
       "defense": 20,
-      "spatk": 45,
-      "spdef": 25,
+      "sp.atk": 45,
+      "sp.def": 25,
       "speed": 20,
       "total": 270
     },
@@ -1124,12 +1124,12 @@ var pokemon_list =
       "Cute Charm",
       "Frisk"
     ],
-    "d": {
+    "stats": {
       "hp": 140,
       "attack": 70,
       "defense": 45,
-      "spatk": 85,
-      "spdef": 50,
+      "sp.atk": 85,
+      "sp.def": 50,
       "speed": 45,
       "total": 435
     },
@@ -1152,12 +1152,12 @@ var pokemon_list =
       "Inner Focus",
       "Infiltrator"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 45,
       "defense": 35,
-      "spatk": 30,
-      "spdef": 40,
+      "sp.atk": 30,
+      "sp.def": 40,
       "speed": 55,
       "total": 245
     },
@@ -1181,12 +1181,12 @@ var pokemon_list =
       "Inner Focus",
       "Infiltrator"
     ],
-    "d": {
+    "stats": {
       "hp": 75,
       "attack": 80,
       "defense": 70,
-      "spatk": 65,
-      "spdef": 75,
+      "sp.atk": 65,
+      "sp.def": 75,
       "speed": 90,
       "total": 455
     },
@@ -1210,12 +1210,12 @@ var pokemon_list =
       "Chlorophyll",
       "Run Away"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 50,
       "defense": 55,
-      "spatk": 75,
-      "spdef": 65,
+      "sp.atk": 75,
+      "sp.def": 65,
       "speed": 30,
       "total": 320
     },
@@ -1239,12 +1239,12 @@ var pokemon_list =
       "Chlorophyll",
       "Stench"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 65,
       "defense": 70,
-      "spatk": 85,
-      "spdef": 75,
+      "sp.atk": 85,
+      "sp.def": 75,
       "speed": 40,
       "total": 395
     },
@@ -1268,12 +1268,12 @@ var pokemon_list =
       "Chlorophyll",
       "Effect Spore"
     ],
-    "d": {
+    "stats": {
       "hp": 75,
       "attack": 80,
       "defense": 85,
-      "spatk": 110,
-      "spdef": 90,
+      "sp.atk": 110,
+      "sp.def": 90,
       "speed": 50,
       "total": 490
     },
@@ -1298,12 +1298,12 @@ var pokemon_list =
       "Effect Spore",
       "Damp"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 70,
       "defense": 55,
-      "spatk": 45,
-      "spdef": 55,
+      "sp.atk": 45,
+      "sp.def": 55,
       "speed": 25,
       "total": 285
     },
@@ -1327,12 +1327,12 @@ var pokemon_list =
       "Effect Spore",
       "Damp"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 95,
       "defense": 80,
-      "spatk": 60,
-      "spdef": 80,
+      "sp.atk": 60,
+      "sp.def": 80,
       "speed": 30,
       "total": 405
     },
@@ -1356,12 +1356,12 @@ var pokemon_list =
       "Tinted Lens",
       "Run Away"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 55,
       "defense": 50,
-      "spatk": 40,
-      "spdef": 55,
+      "sp.atk": 40,
+      "sp.def": 55,
       "speed": 45,
       "total": 305
     },
@@ -1385,12 +1385,12 @@ var pokemon_list =
       "Tinted Lens",
       "Wonder Skin"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 65,
       "defense": 60,
-      "spatk": 90,
-      "spdef": 75,
+      "sp.atk": 90,
+      "sp.def": 75,
       "speed": 90,
       "total": 450
     },
@@ -1413,12 +1413,12 @@ var pokemon_list =
       "Sand Veil",
       "Sand Force"
     ],
-    "d": {
+    "stats": {
       "hp": 10,
       "attack": 55,
       "defense": 25,
-      "spatk": 35,
-      "spdef": 45,
+      "sp.atk": 35,
+      "sp.def": 45,
       "speed": 95,
       "total": 265
     },
@@ -1441,12 +1441,12 @@ var pokemon_list =
       "Sand Veil",
       "Sand Force"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 80,
       "defense": 50,
-      "spatk": 50,
-      "spdef": 70,
+      "sp.atk": 50,
+      "sp.def": 70,
       "speed": 120,
       "total": 405
     },
@@ -1469,12 +1469,12 @@ var pokemon_list =
       "Technician",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 45,
       "defense": 35,
-      "spatk": 40,
-      "spdef": 40,
+      "sp.atk": 40,
+      "sp.def": 40,
       "speed": 90,
       "total": 290
     },
@@ -1497,12 +1497,12 @@ var pokemon_list =
       "Technician",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 70,
       "defense": 60,
-      "spatk": 65,
-      "spdef": 65,
+      "sp.atk": 65,
+      "sp.def": 65,
       "speed": 115,
       "total": 440
     },
@@ -1525,12 +1525,12 @@ var pokemon_list =
       "Damp",
       "Swift Swim"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 52,
       "defense": 48,
-      "spatk": 65,
-      "spdef": 50,
+      "sp.atk": 65,
+      "sp.def": 50,
       "speed": 55,
       "total": 320
     },
@@ -1553,12 +1553,12 @@ var pokemon_list =
       "Damp",
       "Swift Swim"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 82,
       "defense": 78,
-      "spatk": 95,
-      "spdef": 80,
+      "sp.atk": 95,
+      "sp.def": 80,
       "speed": 85,
       "total": 500
     },
@@ -1581,12 +1581,12 @@ var pokemon_list =
       "Vital Spirit",
       "Defiant"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 80,
       "defense": 35,
-      "spatk": 35,
-      "spdef": 45,
+      "sp.atk": 35,
+      "sp.def": 45,
       "speed": 70,
       "total": 305
     },
@@ -1609,12 +1609,12 @@ var pokemon_list =
       "Vital Spirit",
       "Defiant"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 105,
       "defense": 60,
-      "spatk": 60,
-      "spdef": 70,
+      "sp.atk": 60,
+      "sp.def": 70,
       "speed": 95,
       "total": 455
     },
@@ -1637,12 +1637,12 @@ var pokemon_list =
       "Intimidate",
       "Justified"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 70,
       "defense": 45,
-      "spatk": 70,
-      "spdef": 50,
+      "sp.atk": 70,
+      "sp.def": 50,
       "speed": 60,
       "total": 350
     },
@@ -1665,12 +1665,12 @@ var pokemon_list =
       "Intimidate",
       "Justified"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 110,
       "defense": 80,
-      "spatk": 100,
-      "spdef": 80,
+      "sp.atk": 100,
+      "sp.def": 80,
       "speed": 95,
       "total": 555
     },
@@ -1693,12 +1693,12 @@ var pokemon_list =
       "Water Absorb",
       "Swift Swim"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 50,
       "defense": 40,
-      "spatk": 40,
-      "spdef": 40,
+      "sp.atk": 40,
+      "sp.def": 40,
       "speed": 90,
       "total": 300
     },
@@ -1722,12 +1722,12 @@ var pokemon_list =
       "Water Absorb",
       "Swift Swim"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 65,
       "defense": 65,
-      "spatk": 50,
-      "spdef": 50,
+      "sp.atk": 50,
+      "sp.def": 50,
       "speed": 90,
       "total": 385
     },
@@ -1752,12 +1752,12 @@ var pokemon_list =
       "Water Absorb",
       "Swift Swim"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 95,
       "defense": 95,
-      "spatk": 70,
-      "spdef": 90,
+      "sp.atk": 70,
+      "sp.def": 90,
       "speed": 70,
       "total": 510
     },
@@ -1781,12 +1781,12 @@ var pokemon_list =
       "Synchronize",
       "Magic Guard"
     ],
-    "d": {
+    "stats": {
       "hp": 25,
       "attack": 20,
       "defense": 15,
-      "spatk": 105,
-      "spdef": 55,
+      "sp.atk": 105,
+      "sp.def": 55,
       "speed": 90,
       "total": 310
     },
@@ -1810,12 +1810,12 @@ var pokemon_list =
       "Synchronize",
       "Magic Guard"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 35,
       "defense": 30,
-      "spatk": 120,
-      "spdef": 70,
+      "sp.atk": 120,
+      "sp.def": 70,
       "speed": 105,
       "total": 400
     },
@@ -1839,12 +1839,12 @@ var pokemon_list =
       "Synchronize",
       "Magic Guard"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 50,
       "defense": 45,
-      "spatk": 135,
-      "spdef": 95,
+      "sp.atk": 135,
+      "sp.def": 95,
       "speed": 120,
       "total": 500
     },
@@ -1868,12 +1868,12 @@ var pokemon_list =
       "No Guard",
       "Steadfast"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 80,
       "defense": 50,
-      "spatk": 35,
-      "spdef": 35,
+      "sp.atk": 35,
+      "sp.def": 35,
       "speed": 35,
       "total": 305
     },
@@ -1897,12 +1897,12 @@ var pokemon_list =
       "No Guard",
       "Steadfast"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 100,
       "defense": 70,
-      "spatk": 50,
-      "spdef": 60,
+      "sp.atk": 50,
+      "sp.def": 60,
       "speed": 45,
       "total": 405
     },
@@ -1926,12 +1926,12 @@ var pokemon_list =
       "No Guard",
       "Steadfast"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 130,
       "defense": 80,
-      "spatk": 65,
-      "spdef": 85,
+      "sp.atk": 65,
+      "sp.def": 85,
       "speed": 55,
       "total": 505
     },
@@ -1955,12 +1955,12 @@ var pokemon_list =
       "Chlorophyll",
       "Gluttony"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 75,
       "defense": 35,
-      "spatk": 70,
-      "spdef": 30,
+      "sp.atk": 70,
+      "sp.def": 30,
       "speed": 40,
       "total": 300
     },
@@ -1984,12 +1984,12 @@ var pokemon_list =
       "Chlorophyll",
       "Gluttony"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 90,
       "defense": 50,
-      "spatk": 85,
-      "spdef": 45,
+      "sp.atk": 85,
+      "sp.def": 45,
       "speed": 55,
       "total": 390
     },
@@ -2013,12 +2013,12 @@ var pokemon_list =
       "Chlorophyll",
       "Gluttony"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 105,
       "defense": 65,
-      "spatk": 100,
-      "spdef": 70,
+      "sp.atk": 100,
+      "sp.def": 70,
       "speed": 70,
       "total": 490
     },
@@ -2043,12 +2043,12 @@ var pokemon_list =
       "Liquid Ooze",
       "Rain Dish"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 40,
       "defense": 35,
-      "spatk": 50,
-      "spdef": 100,
+      "sp.atk": 50,
+      "sp.def": 100,
       "speed": 70,
       "total": 335
     },
@@ -2072,12 +2072,12 @@ var pokemon_list =
       "Liquid Ooze",
       "Rain Dish"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 70,
       "defense": 65,
-      "spatk": 80,
-      "spdef": 120,
+      "sp.atk": 80,
+      "sp.def": 120,
       "speed": 100,
       "total": 515
     },
@@ -2101,12 +2101,12 @@ var pokemon_list =
       "Sturdy",
       "Sand Veil"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 80,
       "defense": 100,
-      "spatk": 30,
-      "spdef": 30,
+      "sp.atk": 30,
+      "sp.def": 30,
       "speed": 20,
       "total": 300
     },
@@ -2131,12 +2131,12 @@ var pokemon_list =
       "Sturdy",
       "Sand Veil"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 95,
       "defense": 115,
-      "spatk": 45,
-      "spdef": 45,
+      "sp.atk": 45,
+      "sp.def": 45,
       "speed": 35,
       "total": 390
     },
@@ -2161,12 +2161,12 @@ var pokemon_list =
       "Sturdy",
       "Sand Veil"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 120,
       "defense": 130,
-      "spatk": 55,
-      "spdef": 65,
+      "sp.atk": 55,
+      "sp.def": 65,
       "speed": 45,
       "total": 495
     },
@@ -2190,12 +2190,12 @@ var pokemon_list =
       "Run Away",
       "Flame Body"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 85,
       "defense": 55,
-      "spatk": 65,
-      "spdef": 65,
+      "sp.atk": 65,
+      "sp.def": 65,
       "speed": 90,
       "total": 410
     },
@@ -2218,12 +2218,12 @@ var pokemon_list =
       "Run Away",
       "Flame Body"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 100,
       "defense": 70,
-      "spatk": 80,
-      "spdef": 80,
+      "sp.atk": 80,
+      "sp.def": 80,
       "speed": 105,
       "total": 500
     },
@@ -2247,12 +2247,12 @@ var pokemon_list =
       "Own Tempo",
       "Regenerator"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 65,
       "defense": 65,
-      "spatk": 40,
-      "spdef": 40,
+      "sp.atk": 40,
+      "sp.def": 40,
       "speed": 15,
       "total": 315
     },
@@ -2276,12 +2276,12 @@ var pokemon_list =
       "Own Tempo",
       "Regenerator"
     ],
-    "d": {
+    "stats": {
       "hp": 95,
       "attack": 75,
       "defense": 110,
-      "spatk": 100,
-      "spdef": 80,
+      "sp.atk": 100,
+      "sp.def": 80,
       "speed": 30,
       "total": 490
     },
@@ -2305,12 +2305,12 @@ var pokemon_list =
       "Sturdy",
       "Analytic"
     ],
-    "d": {
+    "stats": {
       "hp": 25,
       "attack": 35,
       "defense": 70,
-      "spatk": 95,
-      "spdef": 55,
+      "sp.atk": 95,
+      "sp.def": 55,
       "speed": 45,
       "total": 325
     },
@@ -2334,12 +2334,12 @@ var pokemon_list =
       "Sturdy",
       "Analytic"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 60,
       "defense": 95,
-      "spatk": 120,
-      "spdef": 70,
+      "sp.atk": 120,
+      "sp.def": 70,
       "speed": 70,
       "total": 465
     },
@@ -2363,12 +2363,12 @@ var pokemon_list =
       "Keen Eye",
       "Defiant"
     ],
-    "d": {
+    "stats": {
       "hp": 52,
       "attack": 65,
       "defense": 55,
-      "spatk": 58,
-      "spdef": 62,
+      "sp.atk": 58,
+      "sp.def": 62,
       "speed": 60,
       "total": 352
     },
@@ -2389,12 +2389,12 @@ var pokemon_list =
       "Run Away",
       "Tangled Feet"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 85,
       "defense": 45,
-      "spatk": 35,
-      "spdef": 35,
+      "sp.atk": 35,
+      "sp.def": 35,
       "speed": 75,
       "total": 310
     },
@@ -2418,12 +2418,12 @@ var pokemon_list =
       "Run Away",
       "Tangled Feet"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 110,
       "defense": 70,
-      "spatk": 60,
-      "spdef": 60,
+      "sp.atk": 60,
+      "sp.def": 60,
       "speed": 100,
       "total": 460
     },
@@ -2446,12 +2446,12 @@ var pokemon_list =
       "Thick Fat",
       "Ice Body"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 45,
       "defense": 55,
-      "spatk": 45,
-      "spdef": 70,
+      "sp.atk": 45,
+      "sp.def": 70,
       "speed": 45,
       "total": 325
     },
@@ -2475,12 +2475,12 @@ var pokemon_list =
       "Thick Fat",
       "Ice Body"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 70,
       "defense": 80,
-      "spatk": 70,
-      "spdef": 95,
+      "sp.atk": 70,
+      "sp.def": 95,
       "speed": 70,
       "total": 475
     },
@@ -2503,12 +2503,12 @@ var pokemon_list =
       "Sticky Hold",
       "Poison Touch"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 80,
       "defense": 50,
-      "spatk": 40,
-      "spdef": 50,
+      "sp.atk": 40,
+      "sp.def": 50,
       "speed": 25,
       "total": 325
     },
@@ -2531,12 +2531,12 @@ var pokemon_list =
       "Sticky Hold",
       "Poison Touch"
     ],
-    "d": {
+    "stats": {
       "hp": 105,
       "attack": 105,
       "defense": 75,
-      "spatk": 65,
-      "spdef": 100,
+      "sp.atk": 65,
+      "sp.def": 100,
       "speed": 50,
       "total": 500
     },
@@ -2559,12 +2559,12 @@ var pokemon_list =
       "Skill Link",
       "Overcoat"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 65,
       "defense": 100,
-      "spatk": 45,
-      "spdef": 25,
+      "sp.atk": 45,
+      "sp.def": 25,
       "speed": 40,
       "total": 305
     },
@@ -2588,12 +2588,12 @@ var pokemon_list =
       "Skill Link",
       "Overcoat"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 95,
       "defense": 180,
-      "spatk": 85,
-      "spdef": 45,
+      "sp.atk": 85,
+      "sp.def": 45,
       "speed": 70,
       "total": 525
     },
@@ -2615,12 +2615,12 @@ var pokemon_list =
     "abilities": [
       "Levitate"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 35,
       "defense": 30,
-      "spatk": 100,
-      "spdef": 35,
+      "sp.atk": 100,
+      "sp.def": 35,
       "speed": 80,
       "total": 310
     },
@@ -2643,12 +2643,12 @@ var pokemon_list =
     "abilities": [
       "Levitate"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 50,
       "defense": 45,
-      "spatk": 115,
-      "spdef": 55,
+      "sp.atk": 115,
+      "sp.def": 55,
       "speed": 95,
       "total": 405
     },
@@ -2671,12 +2671,12 @@ var pokemon_list =
     "abilities": [
       "Levitate"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 65,
       "defense": 60,
-      "spatk": 130,
-      "spdef": 75,
+      "sp.atk": 130,
+      "sp.def": 75,
       "speed": 110,
       "total": 500
     },
@@ -2701,12 +2701,12 @@ var pokemon_list =
       "Sturdy",
       "Weak Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 45,
       "defense": 160,
-      "spatk": 30,
-      "spdef": 45,
+      "sp.atk": 30,
+      "sp.def": 45,
       "speed": 70,
       "total": 385
     },
@@ -2728,12 +2728,12 @@ var pokemon_list =
       "Insomnia",
       "Inner Focus"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 48,
       "defense": 45,
-      "spatk": 43,
-      "spdef": 90,
+      "sp.atk": 43,
+      "sp.def": 90,
       "speed": 42,
       "total": 328
     },
@@ -2756,12 +2756,12 @@ var pokemon_list =
       "Insomnia",
       "Inner Focus"
     ],
-    "d": {
+    "stats": {
       "hp": 85,
       "attack": 73,
       "defense": 70,
-      "spatk": 73,
-      "spdef": 115,
+      "sp.atk": 73,
+      "sp.def": 115,
       "speed": 67,
       "total": 483
     },
@@ -2784,12 +2784,12 @@ var pokemon_list =
       "Shell Armor",
       "Sheer Force"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 105,
       "defense": 90,
-      "spatk": 25,
-      "spdef": 25,
+      "sp.atk": 25,
+      "sp.def": 25,
       "speed": 50,
       "total": 325
     },
@@ -2812,12 +2812,12 @@ var pokemon_list =
       "Shell Armor",
       "Sheer Force"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 130,
       "defense": 115,
-      "spatk": 50,
-      "spdef": 50,
+      "sp.atk": 50,
+      "sp.def": 50,
       "speed": 75,
       "total": 475
     },
@@ -2840,12 +2840,12 @@ var pokemon_list =
       "Static",
       "Aftermath"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 30,
       "defense": 50,
-      "spatk": 55,
-      "spdef": 55,
+      "sp.atk": 55,
+      "sp.def": 55,
       "speed": 100,
       "total": 330
     },
@@ -2868,12 +2868,12 @@ var pokemon_list =
       "Static",
       "Aftermath"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 50,
       "defense": 70,
-      "spatk": 80,
-      "spdef": 80,
+      "sp.atk": 80,
+      "sp.def": 80,
       "speed": 140,
       "total": 480
     },
@@ -2896,12 +2896,12 @@ var pokemon_list =
       "Chlorophyll",
       "Harvest"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 40,
       "defense": 80,
-      "spatk": 60,
-      "spdef": 45,
+      "sp.atk": 60,
+      "sp.def": 45,
       "speed": 40,
       "total": 325
     },
@@ -2924,12 +2924,12 @@ var pokemon_list =
       "Chlorophyll",
       "Harvest"
     ],
-    "d": {
+    "stats": {
       "hp": 95,
       "attack": 95,
       "defense": 85,
-      "spatk": 125,
-      "spdef": 65,
+      "sp.atk": 125,
+      "sp.def": 65,
       "speed": 55,
       "total": 520
     },
@@ -2952,12 +2952,12 @@ var pokemon_list =
       "Rock Head",
       "Battle Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 50,
       "defense": 95,
-      "spatk": 40,
-      "spdef": 50,
+      "sp.atk": 40,
+      "sp.def": 50,
       "speed": 35,
       "total": 320
     },
@@ -2980,12 +2980,12 @@ var pokemon_list =
       "Rock Head",
       "Battle Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 80,
       "defense": 110,
-      "spatk": 50,
-      "spdef": 80,
+      "sp.atk": 50,
+      "sp.def": 80,
       "speed": 45,
       "total": 425
     },
@@ -3008,12 +3008,12 @@ var pokemon_list =
       "Reckless",
       "Unburden"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 120,
       "defense": 53,
-      "spatk": 35,
-      "spdef": 110,
+      "sp.atk": 35,
+      "sp.def": 110,
       "speed": 87,
       "total": 455
     },
@@ -3036,12 +3036,12 @@ var pokemon_list =
       "Keen Eye",
       "Inner Focus"
     ],
-    "d": {
+    "stats": {
       "hp": 50,
       "attack": 105,
       "defense": 79,
-      "spatk": 35,
-      "spdef": 110,
+      "sp.atk": 35,
+      "sp.def": 110,
       "speed": 76,
       "total": 455
     },
@@ -3064,12 +3064,12 @@ var pokemon_list =
       "Own Tempo",
       "Cloud Nine"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 55,
       "defense": 75,
-      "spatk": 60,
-      "spdef": 75,
+      "sp.atk": 60,
+      "sp.def": 75,
       "speed": 30,
       "total": 385
     },
@@ -3089,12 +3089,12 @@ var pokemon_list =
     "abilities": [
       "Levitate"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 65,
       "defense": 95,
-      "spatk": 60,
-      "spdef": 45,
+      "sp.atk": 60,
+      "sp.def": 45,
       "speed": 35,
       "total": 340
     },
@@ -3115,12 +3115,12 @@ var pokemon_list =
     "abilities": [
       "Levitate"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 90,
       "defense": 120,
-      "spatk": 85,
-      "spdef": 70,
+      "sp.atk": 85,
+      "sp.def": 70,
       "speed": 60,
       "total": 490
     },
@@ -3144,12 +3144,12 @@ var pokemon_list =
       "Rock Head",
       "Reckless"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 85,
       "defense": 95,
-      "spatk": 30,
-      "spdef": 30,
+      "sp.atk": 30,
+      "sp.def": 30,
       "speed": 25,
       "total": 345
     },
@@ -3173,12 +3173,12 @@ var pokemon_list =
       "Rock Head",
       "Reckless"
     ],
-    "d": {
+    "stats": {
       "hp": 105,
       "attack": 130,
       "defense": 120,
-      "spatk": 45,
-      "spdef": 45,
+      "sp.atk": 45,
+      "sp.def": 45,
       "speed": 40,
       "total": 485
     },
@@ -3201,12 +3201,12 @@ var pokemon_list =
       "Serene Grace",
       "Healer"
     ],
-    "d": {
+    "stats": {
       "hp": 250,
       "attack": 5,
       "defense": 5,
-      "spatk": 35,
-      "spdef": 105,
+      "sp.atk": 35,
+      "sp.def": 105,
       "speed": 50,
       "total": 450
     },
@@ -3228,12 +3228,12 @@ var pokemon_list =
       "Leaf Guard",
       "Regenerator"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 55,
       "defense": 115,
-      "spatk": 100,
-      "spdef": 40,
+      "sp.atk": 100,
+      "sp.def": 40,
       "speed": 60,
       "total": 435
     },
@@ -3255,12 +3255,12 @@ var pokemon_list =
       "Scrappy",
       "Inner Focus"
     ],
-    "d": {
+    "stats": {
       "hp": 105,
       "attack": 95,
       "defense": 80,
-      "spatk": 40,
-      "spdef": 80,
+      "sp.atk": 40,
+      "sp.def": 80,
       "speed": 90,
       "total": 490
     },
@@ -3280,12 +3280,12 @@ var pokemon_list =
       "Swift Swim",
       "Damp"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 40,
       "defense": 70,
-      "spatk": 70,
-      "spdef": 25,
+      "sp.atk": 70,
+      "sp.def": 25,
       "speed": 60,
       "total": 295
     },
@@ -3308,12 +3308,12 @@ var pokemon_list =
       "Sniper",
       "Damp"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 65,
       "defense": 95,
-      "spatk": 95,
-      "spdef": 45,
+      "sp.atk": 95,
+      "sp.def": 45,
       "speed": 85,
       "total": 440
     },
@@ -3336,12 +3336,12 @@ var pokemon_list =
       "Water Veil",
       "Lightning Rod"
     ],
-    "d": {
+    "stats": {
       "hp": 45,
       "attack": 67,
       "defense": 60,
-      "spatk": 35,
-      "spdef": 50,
+      "sp.atk": 35,
+      "sp.def": 50,
       "speed": 63,
       "total": 320
     },
@@ -3364,12 +3364,12 @@ var pokemon_list =
       "Water Veil",
       "Lightning Rod"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 92,
       "defense": 65,
-      "spatk": 65,
-      "spdef": 80,
+      "sp.atk": 65,
+      "sp.def": 80,
       "speed": 68,
       "total": 450
     },
@@ -3392,12 +3392,12 @@ var pokemon_list =
       "Natural Cure",
       "Analytic"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 45,
       "defense": 55,
-      "spatk": 70,
-      "spdef": 55,
+      "sp.atk": 70,
+      "sp.def": 55,
       "speed": 85,
       "total": 340
     },
@@ -3421,12 +3421,12 @@ var pokemon_list =
       "Natural Cure",
       "Analytic"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 75,
       "defense": 85,
-      "spatk": 100,
-      "spdef": 85,
+      "sp.atk": 100,
+      "sp.def": 85,
       "speed": 115,
       "total": 520
     },
@@ -3450,12 +3450,12 @@ var pokemon_list =
       "Soundproof",
       "Technician"
     ],
-    "d": {
+    "stats": {
       "hp": 40,
       "attack": 45,
       "defense": 65,
-      "spatk": 100,
-      "spdef": 120,
+      "sp.atk": 100,
+      "sp.def": 120,
       "speed": 90,
       "total": 460
     },
@@ -3478,12 +3478,12 @@ var pokemon_list =
       "Technician",
       "Steadfast"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 110,
       "defense": 80,
-      "spatk": 55,
-      "spdef": 80,
+      "sp.atk": 55,
+      "sp.def": 80,
       "speed": 105,
       "total": 500
     },
@@ -3506,12 +3506,12 @@ var pokemon_list =
       "Oblivious",
       "Dry Skin"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 50,
       "defense": 35,
-      "spatk": 115,
-      "spdef": 95,
+      "sp.atk": 115,
+      "sp.def": 95,
       "speed": 95,
       "total": 455
     },
@@ -3532,12 +3532,12 @@ var pokemon_list =
       "Static",
       "Vital Spirit"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 83,
       "defense": 57,
-      "spatk": 95,
-      "spdef": 85,
+      "sp.atk": 95,
+      "sp.def": 85,
       "speed": 105,
       "total": 490
     },
@@ -3558,12 +3558,12 @@ var pokemon_list =
       "Flame Body",
       "Vital Spirit"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 95,
       "defense": 57,
-      "spatk": 100,
-      "spdef": 85,
+      "sp.atk": 100,
+      "sp.def": 85,
       "speed": 93,
       "total": 495
     },
@@ -3585,12 +3585,12 @@ var pokemon_list =
       "Mold Breaker",
       "Moxie"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 125,
       "defense": 100,
-      "spatk": 55,
-      "spdef": 70,
+      "sp.atk": 55,
+      "sp.def": 70,
       "speed": 85,
       "total": 500
     },
@@ -3610,12 +3610,12 @@ var pokemon_list =
       "Intimidate",
       "Sheer Force"
     ],
-    "d": {
+    "stats": {
       "hp": 75,
       "attack": 100,
       "defense": 95,
-      "spatk": 40,
-      "spdef": 70,
+      "sp.atk": 40,
+      "sp.def": 70,
       "speed": 110,
       "total": 490
     },
@@ -3634,12 +3634,12 @@ var pokemon_list =
       "Swift Swim",
       "Rattled"
     ],
-    "d": {
+    "stats": {
       "hp": 20,
       "attack": 10,
       "defense": 55,
-      "spatk": 15,
-      "spdef": 20,
+      "sp.atk": 15,
+      "sp.def": 20,
       "speed": 80,
       "total": 200
     },
@@ -3662,12 +3662,12 @@ var pokemon_list =
       "Intimidate",
       "Moxie"
     ],
-    "d": {
+    "stats": {
       "hp": 95,
       "attack": 125,
       "defense": 79,
-      "spatk": 60,
-      "spdef": 100,
+      "sp.atk": 60,
+      "sp.def": 100,
       "speed": 81,
       "total": 540
     },
@@ -3691,12 +3691,12 @@ var pokemon_list =
       "Water Absorb",
       "Hydration"
     ],
-    "d": {
+    "stats": {
       "hp": 130,
       "attack": 85,
       "defense": 80,
-      "spatk": 85,
-      "spdef": 95,
+      "sp.atk": 85,
+      "sp.def": 95,
       "speed": 60,
       "total": 535
     },
@@ -3715,12 +3715,12 @@ var pokemon_list =
       "Limber",
       "Imposter"
     ],
-    "d": {
+    "stats": {
       "hp": 48,
       "attack": 48,
       "defense": 48,
-      "spatk": 48,
-      "spdef": 48,
+      "sp.atk": 48,
+      "sp.def": 48,
       "speed": 48,
       "total": 288
     },
@@ -3740,12 +3740,12 @@ var pokemon_list =
       "Run Away",
       "Anticipation"
     ],
-    "d": {
+    "stats": {
       "hp": 55,
       "attack": 55,
       "defense": 50,
-      "spatk": 45,
-      "spdef": 65,
+      "sp.atk": 45,
+      "sp.def": 65,
       "speed": 55,
       "total": 325
     },
@@ -3769,12 +3769,12 @@ var pokemon_list =
       "Water Absorb",
       "Hydration"
     ],
-    "d": {
+    "stats": {
       "hp": 130,
       "attack": 65,
       "defense": 60,
-      "spatk": 110,
-      "spdef": 95,
+      "sp.atk": 110,
+      "sp.def": 95,
       "speed": 65,
       "total": 525
     },
@@ -3798,12 +3798,12 @@ var pokemon_list =
       "Volt Absorb",
       "Quick Feet"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 65,
       "defense": 60,
-      "spatk": 110,
-      "spdef": 95,
+      "sp.atk": 110,
+      "sp.def": 95,
       "speed": 130,
       "total": 525
     },
@@ -3827,12 +3827,12 @@ var pokemon_list =
       "Flash Fire",
       "Guts"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 130,
       "defense": 60,
-      "spatk": 95,
-      "spdef": 110,
+      "sp.atk": 95,
+      "sp.def": 110,
       "speed": 65,
       "total": 525
     },
@@ -3857,12 +3857,12 @@ var pokemon_list =
       "Trace",
       "Analytic"
     ],
-    "d": {
+    "stats": {
       "hp": 65,
       "attack": 60,
       "defense": 70,
-      "spatk": 85,
-      "spdef": 75,
+      "sp.atk": 85,
+      "sp.def": 75,
       "speed": 40,
       "total": 395
     },
@@ -3885,12 +3885,12 @@ var pokemon_list =
       "Swift Swim",
       "Weak Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 35,
       "attack": 40,
       "defense": 100,
-      "spatk": 90,
-      "spdef": 55,
+      "sp.atk": 90,
+      "sp.def": 55,
       "speed": 35,
       "total": 355
     },
@@ -3914,12 +3914,12 @@ var pokemon_list =
       "Swift Swim",
       "Weak Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 70,
       "attack": 60,
       "defense": 125,
-      "spatk": 115,
-      "spdef": 70,
+      "sp.atk": 115,
+      "sp.def": 70,
       "speed": 55,
       "total": 495
     },
@@ -3943,12 +3943,12 @@ var pokemon_list =
       "Swift Swim",
       "Weak Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 30,
       "attack": 80,
       "defense": 90,
-      "spatk": 55,
-      "spdef": 45,
+      "sp.atk": 55,
+      "sp.def": 45,
       "speed": 55,
       "total": 355
     },
@@ -3972,12 +3972,12 @@ var pokemon_list =
       "Swift Swim",
       "Weak Armor"
     ],
-    "d": {
+    "stats": {
       "hp": 60,
       "attack": 115,
       "defense": 105,
-      "spatk": 65,
-      "spdef": 70,
+      "sp.atk": 65,
+      "sp.def": 70,
       "speed": 80,
       "total": 495
     },
@@ -4001,12 +4001,12 @@ var pokemon_list =
       "Rock Head",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 80,
       "attack": 105,
       "defense": 65,
-      "spatk": 60,
-      "spdef": 75,
+      "sp.atk": 60,
+      "sp.def": 75,
       "speed": 130,
       "total": 515
     },
@@ -4026,12 +4026,12 @@ var pokemon_list =
       "Thick Fat",
       "Gluttony"
     ],
-    "d": {
+    "stats": {
       "hp": 160,
       "attack": 110,
       "defense": 65,
-      "spatk": 65,
-      "spdef": 110,
+      "sp.atk": 65,
+      "sp.def": 110,
       "speed": 30,
       "total": 540
     },
@@ -4053,12 +4053,12 @@ var pokemon_list =
       "Pressure",
       "Snow Cloak"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 85,
       "defense": 100,
-      "spatk": 95,
-      "spdef": 125,
+      "sp.atk": 95,
+      "sp.def": 125,
       "speed": 85,
       "total": 580
     },
@@ -4078,12 +4078,12 @@ var pokemon_list =
       "Pressure",
       "Lightning Rod"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 90,
       "defense": 85,
-      "spatk": 125,
-      "spdef": 90,
+      "sp.atk": 125,
+      "sp.def": 90,
       "speed": 100,
       "total": 580
     },
@@ -4103,12 +4103,12 @@ var pokemon_list =
       "Pressure",
       "Flame Body"
     ],
-    "d": {
+    "stats": {
       "hp": 90,
       "attack": 100,
       "defense": 90,
-      "spatk": 125,
-      "spdef": 85,
+      "sp.atk": 125,
+      "sp.def": 85,
       "speed": 90,
       "total": 580
     },
@@ -4127,12 +4127,12 @@ var pokemon_list =
       "Shed Skin",
       "Marvel Scale"
     ],
-    "d": {
+    "stats": {
       "hp": 41,
       "attack": 64,
       "defense": 45,
-      "spatk": 50,
-      "spdef": 50,
+      "sp.atk": 50,
+      "sp.def": 50,
       "speed": 50,
       "total": 300
     },
@@ -4155,12 +4155,12 @@ var pokemon_list =
       "Shed Skin",
       "Marvel Scale"
     ],
-    "d": {
+    "stats": {
       "hp": 61,
       "attack": 84,
       "defense": 65,
-      "spatk": 70,
-      "spdef": 70,
+      "sp.atk": 70,
+      "sp.def": 70,
       "speed": 70,
       "total": 420
     },
@@ -4184,12 +4184,12 @@ var pokemon_list =
       "Inner Focus",
       "Multiscale"
     ],
-    "d": {
+    "stats": {
       "hp": 91,
       "attack": 134,
       "defense": 95,
-      "spatk": 100,
-      "spdef": 100,
+      "sp.atk": 100,
+      "sp.def": 100,
       "speed": 80,
       "total": 600
     },
@@ -4212,12 +4212,12 @@ var pokemon_list =
       "Pressure",
       "Unnerve"
     ],
-    "d": {
+    "stats": {
       "hp": 106,
       "attack": 110,
       "defense": 90,
-      "spatk": 154,
-      "spdef": 90,
+      "sp.atk": 154,
+      "sp.def": 90,
       "speed": 130,
       "total": 680
     },
@@ -4235,12 +4235,12 @@ var pokemon_list =
     "abilities": [
       "Synchronize"
     ],
-    "d": {
+    "stats": {
       "hp": 100,
       "attack": 100,
       "defense": 100,
-      "spatk": 100,
-      "spdef": 100,
+      "sp.atk": 100,
+      "sp.def": 100,
       "speed": 100,
       "total": 600
     },

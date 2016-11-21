@@ -15,7 +15,7 @@ var current_music = 0;
 function init() {
 
     play_snd("public/snd/open.wav", 0.5);
-    play_snd("public/snd/bg.mp3", 0.05);
+    //play_snd("public/snd/bg.mp3", 0.05);
     change_pokemon(current_id);
 }
 
@@ -106,7 +106,7 @@ function pokedex_ctrl($scope) {
     $scope.up_button_click = function() {
 
         if (current_id == 151) {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
             return ;
         }
         else {
@@ -114,7 +114,7 @@ function pokedex_ctrl($scope) {
             if (current_id > 151) {
                 current_id = 151;
             }
-            play_snd("public/snd/ping_4.wav", 0.5);
+            play_snd("public/snd/ping_4.wav", 0.1);
             change_pokemon(current_id);
             $scope.update_pages(current_id);
         }
@@ -123,7 +123,7 @@ function pokedex_ctrl($scope) {
     $scope.down_button_click = function() {
 
         if (current_id == 1) {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
             return ;
         }
         else {
@@ -131,7 +131,7 @@ function pokedex_ctrl($scope) {
             if (current_id < 1) {
                 current_id = 1;
             }
-            play_snd("public/snd/ping_4.wav", 0.5);
+            play_snd("public/snd/ping_4.wav", 0.1);
             change_pokemon(current_id);
             $scope.update_pages(current_id);
         }
@@ -141,12 +141,12 @@ function pokedex_ctrl($scope) {
 
         if (current_id > 1) {
             --current_id;
-            play_snd("public/snd/ping_4.wav", 0.5);
+            play_snd("public/snd/ping_4.wav", 0.1);
             change_pokemon(current_id);
             $scope.update_pages(current_id);
         }
         else {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
         }
     }
 
@@ -154,12 +154,12 @@ function pokedex_ctrl($scope) {
 
         if (current_id < 151) {
             ++current_id;
-            play_snd("public/snd/ping_4.wav", 0.5);
+            play_snd("public/snd/ping_4.wav", 0.1);
             change_pokemon(current_id);
             $scope.update_pages(current_id);
         }
         else {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
         }
     }
 
@@ -177,11 +177,11 @@ function pokedex_ctrl($scope) {
 
         if (current_page > 1) {
             --current_page;
-            play_snd("public/snd/init_2.wav", 0.5);
+            play_snd("public/snd/init_2.wav", 0.1);
             change_page(current_page);
         }
         else {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
         }
     }
 
@@ -189,11 +189,11 @@ function pokedex_ctrl($scope) {
 
         if (current_page < 4) {
             ++current_page;
-            play_snd("public/snd/init_1.wav", 0.5);
+            play_snd("public/snd/init_1.wav", 0.1);
             change_page(current_page);
         }
         else {
-            play_snd("public/snd/ping_2.wav", 0.5);
+            play_snd("public/snd/ping_2.wav", 0.1);
         }
     }
 
@@ -227,27 +227,6 @@ function pokedex_ctrl($scope) {
         // Poids du Pokemon
         $scope.weight = pokemon_list[id - 1].weight;
 
-        // Hp du Pokemon
-        $scope.hp = pokemon_list[id - 1].stats.hp;
-
-        // Attak du Pokemon
-        $scope.attack = pokemon_list[id - 1].stats.attack;
-
-        // Defense du Pokemon
-        $scope.defense = pokemon_list[id - 1].stats.defense;
-
-        // Sp. Atk du Pokemon
-        $scope.spatk = pokemon_list[id - 1].stats.spatk;
-
-        // Sp.Def du Pokemon
-        $scope.spdef = pokemon_list[id - 1].stats.spdef;
-
-        //Vitesse du pokemon
-        $scope.speed = pokemon_list[id - 1].stats.speed;
-
-        //Total des stats
-        $scope.total = pokemon_list[id - 1].stats.total;
-
         // Competances du Pokemon
         var abilities = " ";
         for (var i = 0; i < pokemon_list[id - 1].abilities.length; ++i)
@@ -256,7 +235,7 @@ function pokedex_ctrl($scope) {
 
         // Evolution du Pokemon
         var evolution = " ";
-        for (var i = 0; i < pokemon_list[id - 1].evolution.length; ++i)
+        for (var i = 0; i < pokemon_list[id - 1].evolution.lenght; ++i)
             evolution += pokemon_list[id - 1].evolution[i] + " ";
         $scope.evolution = evolution;
     }
@@ -270,10 +249,7 @@ function play_snd(src, vol) {
     snd.play();
 }
 
-// function next_music(src, vol) {
-//     // c_button_click
-// }
+function change_music() {
 
-// function prev_music(src, vol) {
-//     // b_button_click
-// }
+
+}
