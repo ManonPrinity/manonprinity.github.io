@@ -28,11 +28,13 @@ section { padding: 32px 0px; text-align: center;}
 #bio_section {}
 	#bio_section > #conference {}
 		#bio_section > #conference > h3 { font-size: 25px; margin-bottom: 30px; }
-		#bio_section > #conference > h4 { font-size: 20px;  }
+		#bio_section > #conference > h4 { font-size: 20px; }
+		#bio_section > #conference > h4:hover { color: #c55; }
 		#bio_section > #conference > p { font-size: 16px; }
 	#bio_section > #emploi {}
 		#bio_section > #emploi > h3 { font-size: 25px; margin-bottom: 30px; }
-		#bio_section > #emploi > h4 { font-size: 20px;  }
+		#bio_section > #emploi > h4 { font-size: 20px; }
+		#bio_section > #emploi > h4:hover { color: #c55; }
 		#bio_section > #emploi > p { font-size: 16px; }
 
 #projects_section { border-bottom: 1px solid #ccc; background: #eee;}
