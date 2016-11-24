@@ -1,9 +1,9 @@
-#main_header {animation: header_anim 10s linear infinite; box-sizing: border-box; position: relative; min-height: calc(100% - 128px); padding: 64px 0px; border-bottom: 1px solid #ccc; background-image: url("../img/symphony.png"); box-shadow: 0px 0px 4px #777; text-align: center;}
-	#main_header > h1 { font-size: 64px;}
-	#main_header > p {	text-shadow: 0px 1px #333; font-size: 16px;}
+#main_header {animation: header_anim 10s linear infinite; box-sizing: border-box; position: relative; min-height: calc(100% - 128px); padding: 64px 0px; border-bottom: 1px solid #ccc; background-image: url("../img/io.png"); box-shadow: 0px 0px 4px #777; text-align: center;}
+	#main_header > h1 { font-size: 64px; color: #92cea9;}
+	#main_header > p { font-size: 16px; color: #84bcb8;}
 	#main_header > p.slogan #acc { margin-bottom: 10px; }
 	#main_header > p.slogan { max-width: 600px; margin: 16px auto;}
-		.samsung { font-size: 16px; padding: 10px;}
+		.samsung { font-size: 16px; padding: 10px; color: #92c4ce;}
 	#main_header > div { display: block; width: 128px; height: 128px; margin: 64px auto 0px auto; background-color: #ccc; background-image: url(""); background-size: 128px 128px; box-shadow: 0px 0px 4px #333 inset;}
 	#main_header > .cv { display: block; max-width: 300px; height: 64px; line-height: 64px; margin: 64px auto; border-bottom: 4px solid #c44; background-color: #c55; color: #fff; text-decoration: none;}
 		#main_header > .cv .icon { display: inline-block; vertical-align: top; width: 64px; height: 64px; background-image: url("../img/cv.svg"); background-size: 42px 42px; background-position: 50% 50%; background-repeat: no-repeat;}
