@@ -16,6 +16,10 @@
 	#main_nav > a:hover { color: #c55;}
 	#main_nav > a:first-child { border-left: none;}
 
+.samsung { text-decoration: none; }
+.samsung:hover { text-decoration: underline; }
+.bold { font-weight: bold; }
+
 section { padding: 32px 0px; text-align: center;}
 	section > h2 { font-size: 42px;}
 
@@ -25,7 +29,7 @@ section { padding: 32px 0px; text-align: center;}
 	#skills_section img { display: inline-block; vertical-align: top; width: 100px; margin: 20px; padding-bottom: 10px; border-bottom: 2px solid #ddd; cursor: pointer;}
 	#skills_section img:hover { border-color: #c55;}
 
-#bio_section {}
+#bio_section { width: 90%; margin: 0 auto; }
 	#bio_section > #conference {}
 		#bio_section > #conference > h3 { font-size: 25px; margin-bottom: 30px; }
 		#bio_section > #conference > h4 { font-size: 20px; }
@@ -51,7 +55,7 @@ section { padding: 32px 0px; text-align: center;}
 		#projects_section > .project > a:hover { color: #c55;}
 
 #contact_section { border-bottom: 1px solid #ccc; background: #fff;}
-	#contact_section > form { max-width: 900px; margin: 20px auto 0px auto; padding: 0px 10px;}
+	#contact_section > form { max-width: 900px; margin: 20px auto 0px auto; padding: 0px 10px; }
 		#contact_section > form > input { display: block; box-sizing: border-box; height: 40px; margin-bottom: 20px; padding: 0px; border: 1px solid #ccc; background-color: #eaeaea;}
 		#contact_section > form > input[type=text] { width: 100%; padding: 0px 10px; background-image: url("../img/trav.png");}
 		#contact_section > form > input[type=email] { width: 100%; padding: 0px 10px; background-image: url("../img/trav.png");}
@@ -76,4 +80,3 @@ section { padding: 32px 0px; text-align: center;}
 	from { background-position: 0px 0px}
 	to { background-position: 300px 0px}
 }
-

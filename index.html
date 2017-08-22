@@ -11,31 +11,30 @@
 	<body>
 		<header id="main_header">
 			<h1>Manon Noblet</h1>
-			<p class="slogan">Developpeur web Junior</p>
+			<p class="slogan">Développeur web Junior</p>
 			<iframe src="https://ghbtns.com/github-btn.html?user=ManonPrinity&type=follow&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 			<div></div>
-			</a>
 			<a class="git" href="https://github.com/ManonPrinity/">
 				<span class="icon"></span>
-				<span class="content">Et par la c'est mon GitHub !</span>
+				<span class="content">Et par là, c'est mon GitHub !</span>
 			</a>
 			<p>MANON, 23 ans</p>
 			<section id=Samsung>
-				<p id="acc"><b>« Réussir sa vie est avant tout une question de volonté »</b></p>
-				<a class="samsung" href="https://campus.samsung.fr/temoignages.php">Temoignages ICI, sur le site du Samsung Campus</a>
+				<p id="acc" class="bold">&laquo; Réussir sa vie est avant tout une question de volonté &raquo;</p>
+				<a class="samsung" href="https://campus.samsung.fr/temoignages.php">Témoignages ICI, sur le site du Samsung Campus</a>
 			</section>
 		</header>
 
 		<nav id="main_nav">
-			<a href="#skills_section">Competences</a>
+			<a href="#skills_section">Compétences</a>
+			<a href="#bio_section">Biographie</a>
 			<a href="#projects_section">Projets</a>
 			<a href="#contact_section">Contact</a>
-			<a href="#bio_section">Biographie</a>
 		</nav>
 
 		<section id="skills_section">
 			<h2>Competences</h2>
-			<p id="skill_precision">Survolez mes competances pour plus d'informations</p>
+			<p id="skill_precision">Survolez mes compétences pour plus d'informations</p>
 			<div onmouseleave="hide_skill();">
 				<img onmouseover="display_skill('html5');" src="img/skills/html5.png" alt="html5">
 				<img onmouseover="display_skill('css3');" src="img/skills/css3.png" alt="css3">
@@ -54,13 +53,13 @@
 		<section id="bio_section">
 			<h2>Biographie</h2>
 			<section id="conference">
-				<h3><b>Conferences</b></h3>
+				<h3 class="bold">Conférences</h3>
 					<h4 onmouseover="display_bio('Lorem');">Evolution du jeu video</h4>
 					<p class="date"><i>12/02/16</i></p>
 					<p id="bio_precision"></p>
 			</section>
 			<section id="emploi">
-				<h3><b>Emploi</b> et/ou <b>Benevolat</b></h3>
+				<h3><span class="bold">Emploi</span> et/ou <span class="bold">Bénévolat</span></h3>
 					<h4></h4>
 					<p class="date"><i>12/02/16</i></p>
 					<p></p>
@@ -94,7 +93,7 @@
 				<div>
 					<p class="title">Paintixel</p>
 					<p class="technos">JavaScript</p>
-					<p class="description">Un paint en JavaScript, plutot pour faire du PixelArt que du dessin.</p>
+					<p class="description">Un paint en JavaScript, plus adapté au PixelArt qu'au dessin.</p>
 				</div>
 				<a href="Projets/JavaScript_Avance_my_paint/index.html">Voir</a>
 			</div>
@@ -125,7 +124,7 @@
 			<form action="mail">
 				<input type="text" name="name" placeholder="nom">
 				<input type="email" name="email" placeholder="email">
-				<textarea name="content" height="500" placeholder="message"></textarea>
+				<textarea name="content" rows="8" placeholder="message"></textarea>
 				<input type="submit" value="Envoyer">
 				<input type="reset" value="Reset">
 			</form>
