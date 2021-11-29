@@ -1,0 +1,239 @@
+/*
+Theme Name: Appointment Dark
+Theme URI: https://webriti.com/appointment-dark-details-page/
+Author: webriti
+Author URI: https://www.webriti.com
+Description: Appointment Dark WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal, and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout, and much more. In the premium version, you can add different types of slides like video, aside, quote, status, and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts, and many sections for business using the Homepage template.  Just navigate to Appearance / Customize to start customizing.
+Tags: full-width-template, threaded-comments, two-columns, right-sidebar, left-sidebar, sticky-post, custom-menu, translation-ready, blog, footer-widgets, featured-images
+Template: appointment
+Version: 1.2.2
+Requires at least: 4.5
+Tested up to: 5.8
+Requires PHP: 5.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: appointment-dark
+*/
+
+/*--------------------------------------------------------------
+  Navbar2 Classes
+--------------------------------------------------------------*/
+.nav{padding: 15px 0;}
+.navbar.navbar2 {
+  position: absolute;
+  width: 100%;
+  z-index: 999;
+}
+.navbar2.navbar-default {
+  background-color: rgba(0, 0, 0,0.5) !important;
+  border-color: transparent;
+}
+
+.slider2 .carousel-inner > .item > img {width: 100%;}
+.navbar-default.navbar2 .navbar-toggle .icon-bar{background-color: #ddd;}
+.navbar-default.navbar2 .navbar-toggle:hover .icon-bar,
+.navbar-default.navbar2 .navbar-toggle:focus .icon-bar {
+    background-color: #888;
+}
+@media (min-width:1101px ) {
+	.navbar2.navbar-default .navbar-nav > li > a { color: #ffffff; }
+	.navbar2 .cart-header > a.cart-icon ,.navbar2 .search-box-outer a  {
+      color: #ffffff;
+    }
+    .navbar2 .cart-header {
+      border-left: 1px solid #ffffff;
+    }
+}
+@media (max-width: 1100px) {
+  .navbar-default.navbar2 .navbar-collapse {
+    border-color: #ffffff;
+    padding: 0;
+  }
+  .navbar2 .navbar-nav {
+   background-color: #111111;;
+    padding: 20px;
+    margin: 10px 0 0;
+  }
+}
+.site-branding-text {
+  text-align:left;
+   margin: 0 auto;
+  padding: 6px;
+  display: block;
+}
+.site-branding-text .site-title {
+   height: auto;
+   font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+   margin: 0;
+   padding: 0px;
+        word-wrap: break-word;
+}
+.site-title a,.site-description{
+  color: #fff;
+}
+.site-title a:hover,.site-title a:focus{
+  color: #1bbc9b;
+}
+.site-description {
+   padding: 0;
+   margin: 0;
+}
+
+/*Service Section 2-------------------------------------------------------------------------------------------*/
+.service-section2 .service-area{
+	padding: 20px 24px;
+    position: relative;
+    background: #fff;
+    margin-bottom: 32px;
+    padding: 23px 20px;
+    transition: 0.25s;
+    -webkit-transition: all 0.25s ease-in;
+    -moz-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;}
+.service-section2 .service-icon{position: relative;text-align: left;margin: 0 0 16px;float: none;}
+.service-section2 i.fa {font-size: 36px;text-align: center;}
+.service-section2 .media-body h3{display: block; margin: 0 0 19px;padding: 0;}
+.service-section2 .media-body p{display: block;overflow: hidden;margin: 0px;}
+.service-section2 .service-area:hover {
+    color: #fff;
+    -webkit-transition: all 0.25s ease-in;
+    -moz-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in;
+}
+.service-section2 .service-area:hover i.fa {color: #fff;}
+.service-section2 .service-area::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2px;
+    height: 100%;
+    transition: .5s;
+    z-index: 0;
+}
+.service-section2 .service-area:hover::before {
+    width: 100%;
+}
+.service-section2 .service-area:hover .media-body h3,.service-section2 .service-area:hover .media-body p{
+   color: #fff;
+    transition: 0s;
+    position: relative;
+    z-index: 1;
+}
+
+/*Top Callout Section----------------------------------------------------------------------------------------*/
+.footer-contact-detail-section { margin: 50px 0 30px; padding: 0; width: 100%; }
+.footer-section-heading-title {
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin: 0 auto 30px;
+    padding: 0 15px;
+    position: relative;
+    text-align: center;
+    width: 97.4%;
+}
+.footer-section-heading-title h2 { margin: 0 0 10px; font-size: 36px; }
+.footer-contact-area { margin: 0px; padding: 20px 0px; }
+.footer-contact-icon { float: left; margin: 0 25px 0 0; padding: 0; }
+.footer-contact-icon i { font-size: 45px; transition: all 0.3s ease-in-out 0s; }
+.footer-contact-area:hover .footer-contact-icon i { padding-top: 10px; }
+.footer-contact-area h6 { font-family: "OpenSansSemiBold"; font-size: 14px; letter-spacing: 1px; line-height: 20px; margin: 0 0 7px; }
+.footer-contact-area h4 {
+  font-family: "OpenSansSemiBold";
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    margin: 0 0 0px;
+}
+.service-section2 .service-area:hover .service-icon i {
+     padding-top: 0px;
+}
+.blog .more-link{
+    background-color: #1BBC9B;
+}
+.blog a.more-link:hover,.blog a.more-link:focus {
+    background-color: #fff;
+    color: #010101;
+}
+.blog-lg-area-left .panel-title > a {
+    color: #333;
+}
+.blog-lg-area-left .panel-body {
+    color: #727272;
+}
+.blog-lg-area-left .icon-box {
+    background: #333;
+    text-align: center;
+    margin: 0 0 10px;
+    padding: 5px 0;
+}
+.wpcf7-textarea {
+  background-color: transparent;
+}
+input.wpcf7-form-control.wpcf7-text {
+    color: inherit;
+}
+
+@media (max-width: 767px){
+.navbar-default.navbar2 .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+}
+.navbar-default.navbar2 .navbar-nav .open .dropdown-menu > .active > a,
+ .navbar-default.navbar2 .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .navbar-default.navbar2 .navbar-nav .open .dropdown-menu > .active > a:focus{
+  background-color: #1bbc9b;
+}
+}
+.blog-lg-area-left .blog-content a, .comment-section .media-body a,.textwidget a{text-decoration:underline;}
+.comment-section .comment-date a{text-decoration:none;}
+.calendar_wrap table > caption, .wp-block-calendar table caption, .blog-content dl dt {
+  color: #777 !important;
+}
+@media (max-width: 768px) {
+  .site-branding-text {
+      text-align: center;
+  }
+}
+/*5.8 widget style*/
+ body .wp-block-search .wp-block-search__label, body .sidebar-widget h1, body .sidebar-widget h2, body .sidebar-widget h3, body .sidebar-widget h4, body .sidebar-widget h5, body .sidebar-widget h6, body .footer-section .wp-block-search .wp-block-search__label, body .footer-section h1, body .footer-section h2, body .footer-section h3, body .footer-section h4, body .footer-section h5, body .footer-section h6, body .wp-block-latest-comments__comment-meta a {
+  color: #fff;
+}
+body .sidebar-widget .wpcf7-textarea, body .sidebar-widget .wpcf7-text,  body .footer-section .wpcf7-textarea, body .footer-section .wpcf7-text { background-color: transparent; }
+body .wp-block-latest-posts__post-author, body .wp-block-latest-posts__post-date,body .wp-block-latest-comments__comment-excerpt p, .wp-block-latest-comments__comment-date {
+  color: #E5E5E5;
+}
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    word-wrap: normal !important;
+}
+.screen-reader-text:focus {
+     background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000;
+}
+.wp-block-latest-posts__post-excerpt .slide-text-bg2 span{
+    background-color:#191919 !important;
+    color:#fff !important;
+}
+.footer-section .wp-block-latest-posts__post-excerpt  .slide-text-bg2 span{
+background-color: #1bbc9b;
+}

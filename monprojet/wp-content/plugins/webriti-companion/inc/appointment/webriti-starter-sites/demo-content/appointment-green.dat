@@ -1,0 +1,35 @@
+a:4:{s:8:"template";s:11:"appointment";s:4:"mods";a:6:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:36;}s:18:"custom_css_post_id";i:430;s:11:"custom_logo";i:455;s:11:"header_text";i:0;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1617872630;s:4:"data";a:6:{s:19:"wp_inactive_widgets";a:2:{i:0;s:6:"meta-2";i:1;s:17:"recent-comments-2";}s:9:"sidebar-1";a:5:{i:0;s:8:"search-2";i:1;s:10:"archives-2";i:2;s:12:"categories-2";i:3;s:11:"tag_cloud-3";i:4;s:14:"recent-posts-2";}s:18:"footer-widget-area";a:4:{i:0;s:13:"custom_html-3";i:1;s:12:"categories-5";i:2;s:11:"tag_cloud-5";i:3;s:10:"nav_menu-4";}s:25:"home-orange-sidebar_right";a:1:{i:0;s:26:"appointment_info_callout-3";}s:26:"home-orange-sidebar_center";a:1:{i:0;s:26:"appointment_info_callout-4";}s:24:"home-orange-sidebar_left";a:1:{i:0;s:26:"appointment_info_callout-5";}}}}s:7:"options";a:67:{s:9:"site_icon";s:3:"460";s:42:"appointment_options[footer_copyright_text]";s:258:"<p>Proudly powered by<a href="https://wordpress.org"> WordPress</a> | Theme: <a href="https://webriti.com/appointment-green-child-version-details-page-1/" rel="nofollow"> Appointment Green</a> by  <a href="https://webriti.com/" rel="nofollow">Webriti</a></p>";s:44:"appointment_options[footer_menu_bar_enabled]";s:0:"";s:48:"appointment_options[footer_social_media_enabled]";s:0:"";s:54:"appointment_options[footer_social_media_facebook_link]";s:1:"#";s:50:"appointment_options[footer_facebook_media_enabled]";i:1;s:53:"appointment_options[footer_social_media_twitter_link]";s:1:"#";s:49:"appointment_options[footer_twitter_media_enabled]";i:1;s:54:"appointment_options[footer_social_media_linkedin_link]";s:1:"#";s:50:"appointment_options[footer_linkedin_media_enabled]";i:1;s:51:"appointment_options[footer_social_media_skype_link]";s:1:"#";s:47:"appointment_options[footer_skype_media_enabled]";i:1;s:48:"appointment_options[header_social_media_enabled]";i:0;s:47:"appointment_options[social_media_facebook_link]";s:1:"#";s:43:"appointment_options[facebook_media_enabled]";i:1;s:46:"appointment_options[social_media_twitter_link]";s:1:"#";s:42:"appointment_options[twitter_media_enabled]";i:1;s:47:"appointment_options[social_media_linkedin_link]";s:1:"#";s:43:"appointment_options[linkedin_media_enabled]";i:1;s:38:"appointment_options[home_blog_enabled]";s:0:"";s:47:"appointment_options[home_meta_section_settings]";s:0:"";s:33:"appointment_options[blog_heading]";s:11:"Latest news";s:37:"appointment_options[blog_description]";s:205:"Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui official deserunt mollit anim id est laborum.";s:46:"appointment_options[blog_selected_category_id]";s:8:"11,30,10";s:39:"appointment_options[post_display_count]";s:1:"4";s:38:"appointment_options[link_color_enable]";b:0;s:31:"appointment_options[link_color]";s:7:"#ee591f";s:49:"appointment_options[header_column_layout_setting]";s:6:"column";s:44:"appointment_options[service_section_enabled]";s:0:"";s:34:"appointment_options[service_title]";s:12:"Our services";s:40:"appointment_options[service_description]";s:132:"This is the service description which you can add in the Service Description field present in the Service Settings tab in customizer";s:37:"appointment_options[service_one_icon]";s:9:"fa-mobile";s:38:"appointment_options[service_one_title]";s:17:"Responsive Design";s:44:"appointment_options[service_one_description]";s:114:"Free version allows you to add six services . Which you can configure from the service settings tab in customizer.";s:37:"appointment_options[service_two_icon]";s:7:"fa-bell";s:38:"appointment_options[service_two_title]";s:11:"Easy to use";s:44:"appointment_options[service_two_description]";s:110:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consec tetur adipisicing elit dignissim dapib tumst.";s:39:"appointment_options[service_three_icon]";s:9:"fa-laptop";s:40:"appointment_options[service_three_title]";s:13:"Very Flexible";s:46:"appointment_options[service_three_description]";s:110:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consec tetur adipisicing elit dignissim dapib tumst.";s:38:"appointment_options[service_four_icon]";s:10:"fa-support";s:39:"appointment_options[service_four_title]";s:12:"Well Support";s:45:"appointment_options[service_four_description]";s:110:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consec tetur adipisicing elit dignissim dapib tumst.";s:38:"appointment_options[service_five_icon]";s:7:"fa-code";s:39:"appointment_options[service_five_title]";s:10:"Clean Code";s:45:"appointment_options[service_five_description]";s:110:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consec tetur adipisicing elit dignissim dapib tumst.";s:37:"appointment_options[service_six_icon]";s:6:"fa-cog";s:38:"appointment_options[service_six_title]";s:12:"Customizable";s:44:"appointment_options[service_six_description]";s:110:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consec tetur adipisicing elit dignissim dapib tumst.";s:50:"appointment_options[service_rotate_layout_section]";s:6:"rotate";s:47:"appointment_options[home_call_out_area_enabled]";s:0:"";s:40:"appointment_options[home_call_out_title]";s:33:"Want to say hey or find out more?";s:46:"appointment_options[home_call_out_description]";s:99:"Reprehen derit in voluptate velit cillum dolore eu fugiat nulla pariaturs sint occaecat proidentse.";s:39:"appointment_options[callout_background]";s:0:"";s:44:"appointment_options[home_call_out_btn1_text]";s:8:"Pro Demo";s:44:"appointment_options[home_call_out_btn1_link]";s:35:"http://appointment-pro.webriti.com/";s:51:"appointment_options[home_call_out_btn1_link_target]";i:1;s:44:"appointment_options[home_call_out_btn2_text]";s:15:"Buy Pro Version";s:44:"appointment_options[home_call_out_btn2_link]";s:31:"http://webriti.com/appointment/";s:51:"appointment_options[home_call_out_btn2_link_target]";i:1;s:40:"appointment_options[home_banner_enabled]";s:0:"";s:33:"appointment_options[slider_radio]";s:8:"category";s:43:"appointment_options[slider_select_category]";s:5:"28,29";s:35:"appointment_options[slider_options]";s:5:"slide";s:44:"appointment_options[slider_transition_delay]";i:5000;s:41:"appointment_options[featured_slider_post]";s:0:"";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:617:".icon-box { 
+	background: #f2f2f2; 
+	text-align: center; 
+} 
+.icon-box a { 
+	color: #999; 
+	font-size: 19px; 
+} 
+.icon-box { 
+	background: #f2f2f2; 
+	text-align: center; 
+	margin: 0 0 10px; 
+	padding: 5px 0; 
+} 
+.icon-box p { 
+	margin: 0 !important; 
+}
+.button-center { 
+	text-align:center; 
+} 
+.blogdetail-btn:hover, .blogdetail-btn:focus { 
+	color:#fff; 
+}
+.navbar4 .navbar-default .navbar-nav>li>a {
+    padding: 7px 10px;
+}
+
+@media (max-width: 491px) {
+  .navbar-header.index6 .navbar-brand {
+    padding: 0;
+    padding-bottom: 10px;
+		display:block;
+  }
+}
+.Service-section .col-md-4:nth-child(3n+4){clear:both;}";}

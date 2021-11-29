@@ -1,0 +1,82 @@
+a:4:{s:8:"template";s:11:"appointment";s:4:"mods";a:68:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:4;}s:18:"custom_css_post_id";i:967;s:11:"header_text";i:0;s:11:"custom_logo";i:993;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1624021428;s:4:"data";a:5:{s:19:"wp_inactive_widgets";a:0:{}s:9:"sidebar-1";a:5:{i:0;s:8:"search-2";i:1;s:14:"recent-posts-2";i:2;s:10:"archives-2";i:3;s:12:"categories-2";i:4;s:6:"meta-2";}s:18:"footer-widget-area";a:4:{i:0;s:6:"text-2";i:1;s:12:"categories-3";i:2;s:14:"recent-posts-3";i:3;s:15:"media_gallery-1";}s:25:"home-orange-sidebar_right";a:0:{}s:26:"home-orange-sidebar_center";a:0:{}}}s:24:"enable_header_typography";i:1;s:21:"site_title_fontfamily";s:10:"Montserrat";s:24:"tagline_title_fontfamily";s:10:"Montserrat";s:21:"menu_title_fontfamily";s:10:"Montserrat";s:24:"submenu_title_fontfamily";s:10:"Montserrat";s:24:"enable_banner_typography";i:1;s:23:"banner_title_fontfamily";s:10:"Montserrat";s:27:"breadcrumb_title_fontfamily";s:10:"Montserrat";s:24:"enable_slider_typography";i:1;s:23:"slider_title_fontfamily";s:10:"Montserrat";s:26:"enable_homepage_typography";i:1;s:25:"homepage_title_fontfamily";s:10:"Montserrat";s:31:"homepage_description_fontfamily";s:10:"Montserrat";s:25:"enable_content_typography";i:1;s:24:"h1_typography_fontfamily";s:10:"Montserrat";s:24:"h2_typography_fontfamily";s:10:"Montserrat";s:24:"h3_typography_fontfamily";s:10:"Montserrat";s:24:"h4_typography_fontfamily";s:10:"Montserrat";s:24:"h5_typography_fontfamily";s:10:"Montserrat";s:24:"h6_typography_fontfamily";s:10:"Montserrat";s:23:"p_typography_fontfamily";s:10:"Montserrat";s:33:"button_text_typography_fontfamily";s:10:"Montserrat";s:22:"enable_post_typography";i:1;s:21:"post_title_fontfamily";s:10:"Montserrat";s:25:"enable_sidebar_typography";i:1;s:18:"sidebar_fontfamily";s:10:"Montserrat";s:33:"sidebar_widget_content_fontfamily";s:10:"Montserrat";s:31:"enable_footer_widget_typography";i:1;s:30:"footer_widget_title_fontfamily";s:10:"Montserrat";s:32:"footer_widget_content_fontfamily";s:10:"Montserrat";s:19:"site_title_fontsize";s:2:"24";s:22:"site_title_line_height";s:2:"34";s:22:"tagline_title_fontsize";s:2:"16";s:19:"tagline_line_height";s:2:"26";s:19:"menu_title_fontsize";s:2:"16";s:16:"menu_line_height";s:2:"26";s:22:"submenu_title_fontsize";s:2:"16";s:19:"submenu_line_height";s:2:"26";s:18:"banner_line_height";s:2:"46";s:25:"breadcrumb_title_fontsize";s:2:"14";s:22:"breadcrumb_line_height";s:2:"24";s:14:"h2_line_height";s:2:"40";s:22:"h3_typography_fontsize";s:2:"30";s:14:"h3_line_height";s:2:"40";s:14:"h4_line_height";s:2:"30";s:22:"h5_typography_fontsize";s:2:"20";s:14:"h5_line_height";s:2:"30";s:21:"p_typography_fontsize";s:2:"14";s:13:"p_line_height";s:2:"24";s:31:"button_text_typography_fontsize";s:2:"14";s:18:"button_line_height";s:2:"24";s:14:"h6_line_height";s:2:"24";s:22:"post_title_line_height";s:2:"40";s:19:"post_title_fontsize";s:2:"36";s:16:"sidebar_fontsize";s:2:"20";s:19:"sidebar_line_height";s:2:"30";s:31:"sidebar_widget_content_fontsize";s:2:"14";s:34:"sidebar_widget_content_line_height";s:2:"24";s:28:"footer_widget_title_fontsize";s:2:"20";s:31:"footer_widget_title_line_height";s:2:"30";s:30:"footer_widget_content_fontsize";s:2:"14";s:33:"footer_widget_content_line_height";s:2:"24";}s:7:"options";a:28:{s:9:"site_icon";s:4:"1015";s:42:"appointment_options[footer_copyright_text]";s:117:"<p>Copyright 2021  Appointment Wordpress Theme. All rights reserved by <a href="https://webriti.com/">webriti</a></p>";s:44:"appointment_options[footer_menu_bar_enabled]";s:0:"";s:48:"appointment_options[footer_social_media_enabled]";i:0;s:54:"appointment_options[footer_social_media_facebook_link]";s:1:"#";s:50:"appointment_options[footer_facebook_media_enabled]";i:1;s:53:"appointment_options[footer_social_media_twitter_link]";s:1:"#";s:49:"appointment_options[footer_twitter_media_enabled]";i:1;s:54:"appointment_options[footer_social_media_linkedin_link]";s:1:"#";s:50:"appointment_options[footer_linkedin_media_enabled]";i:1;s:51:"appointment_options[footer_social_media_skype_link]";s:1:"#";s:47:"appointment_options[footer_skype_media_enabled]";i:1;s:48:"appointment_options[header_social_media_enabled]";i:0;s:47:"appointment_options[social_media_facebook_link]";s:1:"#";s:43:"appointment_options[facebook_media_enabled]";i:1;s:46:"appointment_options[social_media_twitter_link]";s:1:"#";s:42:"appointment_options[twitter_media_enabled]";i:1;s:47:"appointment_options[social_media_linkedin_link]";s:1:"#";s:43:"appointment_options[linkedin_media_enabled]";i:1;s:38:"appointment_options[home_blog_enabled]";s:0:"";s:47:"appointment_options[home_meta_section_settings]";s:0:"";s:33:"appointment_options[blog_heading]";s:13:"Proin euismod";s:37:"appointment_options[blog_description]";s:205:"Duis aute irure dolor in reprehenderit in voluptate velit cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupid non proident, sunt in culpa qui official deserunt mollit anim id est laborum.";s:46:"appointment_options[blog_selected_category_id]";i:1;s:39:"appointment_options[post_display_count]";i:4;s:38:"appointment_options[link_color_enable]";s:1:"1";s:31:"appointment_options[link_color]";s:7:"#e88502";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:2379:"body .navbar-default .navbar-nav > li > a {
+    font-weight: 500;
+	}
+h1, .h1, h2, .h2 {
+    font-weight: 600;	
+	}
+body h3.ap-blg-tiitle, body .masonry-item .blog-lg-area-left h3 {
+    font-weight: 600;	
+	}
+	.blog-lg-area-left h3, .blog-lg-area-right h3, .blog-lg-area-full h3 {
+    font-weight: 600;
+	}
+	
+	
+.blog-post-lg {
+   font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.blog-content .more-link {  font-size: 14px;
+    font-weight: 600;
+    line-height: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 44px;
+    padding-right: 44px;
+    border-radius: 3px;
+    box-shadow:unset;
+}
+body .sidebar-widget-title h3{
+    font-weight: 700;
+}
+.blog-post-date-area .month-year {
+    font-family: 'Montserrat';
+    font-size: 16px;
+	}
+.blog-post-date-area .comment {
+    font-family: 'Montserrat';}	
+.footer-copyright p {
+    font-family: 'Montserrat';
+    font-size: 14px;
+}
+.wpcf7-submit, input[type="submit"] { box-shadow: 0 3px 0 0 #1359B6; }   .service-column .service-block:hover .elementor-icon,
+ .service-column .service-block:hover .elementor-heading-title,
+ .service-column .service-block:hover .elementor-text-editor{color:#ffffff !important;} .wpcf7-form-control.wpcf7-submit{color:#fff;}
+body .header-module .header-toggle-search {
+    line-height: 16px;
+}
+
+body .wpcf7-submit,
+body .comment-form-section .form-submit, body .header-module .header-toggle-search, body .page-builder .entry-content a.more-link, body .ap-blg-content a.more-link, body .ap-blg-content a.wp-block-button__link, body .page-builder .entry-content a.wp-block-button__link, body #blogdetail-btn, body.dark .page-builder .ap-blg-content .wp-block-button__link, body.dark .blog-section-lg .masonry-item .wp-block-button__link {
+    box-shadow:unset;
+}
+.blog-lg-area-left h3 > a, .blog-lg-area-right h3 > a, .blog-lg-area-full h3 > a {
+    color: #3d3d3d;
+}
+
+.sidebar-widget-title h3, .sidebar-widget-title h3 a {
+    color: #3d3d3d;
+}
+.footer-widget-title, .footer-widget-title a.rsswidget {
+    color: #3d3d3d;
+}
+
+p, .textwidget {
+    color: #6B6B6B;
+}
+
+.footer-widget-column ul li a {
+    color: #6B6B6B;
+    transition: all 0.3s ease 0s;
+}
+
+.sidebar-widget-title h3, .sidebar-widget-title h3 a {
+    color: #3d3d3d;}
+.sidebar-widget > ul > li > a {
+    color: #6B6B6B;
+}
+ul li, ul li a, ol li, ol li a {
+    color: #6B6B6B;
+}}";}

@@ -1,0 +1,55 @@
+.ct-close-button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: var(--position, relative);
+	z-index: var(--z-index, initial);
+	top: var(--top, initial);
+	// right: var(--right, -10px);
+	right: var(--right, 0);
+	cursor: pointer;
+	margin-inline-start: auto;
+	width: var(--close-button-size);
+	height: var(--close-button-size);
+	border-radius: var(--close-button-radius);
+	transition: background 0.3s ease-out,
+				border-color 0.3s ease-out;
+
+	--icon-size: 12px;
+	--icon-color: rgba(255, 255, 255, 0.7);
+
+	svg {
+		transition: transform 0.2s ease-out;
+	}
+
+	&:hover {
+		svg {
+			transform: rotate(90deg);
+			fill: var(--icon-hover-color, #fff);
+		}
+	}
+}
+
+.ct-close-button {
+
+	&:not([data-type="type-1"]) {
+		--close-button-size: 33px;
+		--close-button-radius: 5px;
+	}
+
+	&[data-type="type-2"] {
+		border: 1px solid var(--close-button-border-color, rgba(0, 0, 0, 0.5));
+
+		&:hover {
+			border-color: var(--close-button-hover-border-color, rgba(0, 0, 0, 0.5));
+		}
+	}
+
+	&[data-type="type-3"] {
+		background: var(--close-button-background, rgba(0, 0, 0, 0.5));
+
+		&:hover {
+			background: var(--close-button-hover-background, rgba(0, 0, 0, 0.5));
+		}
+	}
+}

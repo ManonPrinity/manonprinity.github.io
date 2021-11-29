@@ -1,0 +1,767 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Appointment Dark\n"
+"POT-Creation-Date: 2021-11-15 18:33+0530\n"
+"PO-Revision-Date: 2020-10-03 11:49+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/inc/class-appointment-dark-about-page.php:74
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:75
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:76
+#: admin/inc/include-companion.php:44 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:87
+msgid "About Appointment Dark Theme"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:88
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:102
+#, php-format
+msgid ""
+"Appointment Dark theme is installed. To take full advantage of the features "
+"this theme has to offer visit our %1$s welcome page %2$s"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:103
+msgid "Get started with Appointment Dark theme"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:224
+msgid "See changelog below:"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:276
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:281
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:289
+msgid "Why Upgrade to PRO?"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:296
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:302
+msgid "Support"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:308
+#: admin/tab-pages/support.php:18 admin/tab-pages/support.php:20
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:386
+#, php-format
+msgid "Install %s Now"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:388
+#: admin/inc/include-companion.php:82
+msgid "Install & Activate"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:405
+#, php-format
+msgid "Activate %s Now"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:407
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:410
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:520
+#: admin/inc/include-companion.php:81 admin/inc/include-companion.php:98
+msgid "Webriti Companion"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:523
+msgid ""
+"It is highly recommended that you install & activate the Webriti Companion "
+"plugin to have access to the advance Frontpage sections and other theme "
+"features"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:527
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/inc/class-appointment-dark-about-page.php:530
+msgid ""
+"It is recommended that you install & activate the Contact Form 7 plugin to "
+"show contact form on pages"
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid ""
+"Webriti Companion plugin is required to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:81
+msgid "Install Webriti Companion Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid ""
+"You have installed Webriti Companion Plugin. Activate it to take advantage "
+"of this theme's features in the customizer."
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate Webriti Companion now"
+msgstr ""
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:16 admin/tab-pages/useful_plugins.php:21
+msgid "Top Header Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "Header Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "Header Layout"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Slider Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Widget Area Below Slider"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "Service Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid "Callout Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Portfolio Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Testimonials Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Team Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:46
+msgid "Clients Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:49 admin/tab-pages/useful_plugins.php:60
+msgid "Latest News Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Footer Callout Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "Footer Credit"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:58
+msgid "Page Templates Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Various Page Templates included in the Premium Theme"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:62
+msgid "Mobile Friendly"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Responsive layout in all devices"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:66
+msgid "Contact Form Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:69 admin/tab-pages/useful_plugins.php:14
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:70
+msgid ""
+"This feature allows you to rename the custom post type slug names in the URL."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:73 admin/tab-pages/useful_plugins.php:75
+msgid "Multiple Color Schemes"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:74
+msgid ""
+"Enjoy using the 13 preset color schemes. You can also create custom skins "
+"without adding any code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:77
+msgid "Typography"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:78
+msgid ""
+"You can change the typography of the theme like font-family, font size, etc."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:81
+msgid "Google Maps"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:82
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:85
+msgid "Portfolio"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:86
+msgid ""
+"Present your project/portfolio collection with 2 column, 3 column and 4 "
+"column layouts. You can also display your project/portfolio by category."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:89
+msgid "About Us Page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid ""
+"Show team members, your clients and custom content added in the WordPress "
+"editor."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:93
+msgid "Services Page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:94
+msgid "Show all your services in a single place."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:97
+msgid "Testimonial / Review Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:98
+msgid "Show user feedback on the Homepage and Services page."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:101
+msgid "WPML / Polylang Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:102
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:105
+msgid "Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:106
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:114
+msgid "Free"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:118
+msgid "Menus + 3 social icons"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:119
+msgid "1 header variation"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:120
+msgid "Unlimited slides"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:121 admin/tab-pages/free_vs_pro.php:158
+msgid "Left, center and right sidebars"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "6 services + 1 variation"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid " + 1 variation"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:131
+msgid "Not Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:132
+msgid "4 Templates layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:136
+msgid "Custom color skin"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:144
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:151
+msgid "Pro"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:154
+msgid "Left + Right sidebar areas"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:155
+msgid "Menus + 6 social icons + search icon + cart icon"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:156
+msgid "5 header variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:157
+msgid ""
+"Unlimited slides with 5 slide variations [ standard, aside, quote, status "
+"and video]"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:159
+msgid "9 services + 5 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:161
+msgid " + background setting"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:162
+msgid "Unlimited projects + 4 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:163
+msgid "Unlimited testimonials + 4 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:164
+msgid "Unlimited teams + 4 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:165
+msgid "8 clients"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:167
+msgid " + 5 variations"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:169
+msgid "Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:171
+msgid "31 Templates layouts"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:175
+msgid "Custom color skin + 13 Preset color schemes"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:184
+msgid "Webriti Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:192
+msgid "Get PRO Version Now!"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the Appointment Dark theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:18
+msgid ""
+"This theme is ideal for creating corporate and business websites. There is "
+"no separate premium version of it, as Appointment Dark is a child theme of "
+"the Appointment WordPress theme. The premium version, Appointment PRO has "
+"tons of features: a homepage with many sections where you can feature "
+"unlimited services, portfolios, user reviews, latest news, callout, custom "
+"widgets and much more."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:23
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:26
+msgid ""
+"To take full advantage of the theme's features you need to install "
+"recommended plugins."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:28
+msgid "Click here"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:32
+msgid "Start Customizing"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:35
+msgid "After activating recommended plugins , now you can start customization."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Go to Customizer"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:44
+msgid "appointment-dark Theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:50
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:56
+msgid "Lite Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:60
+msgid "PRO Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Premium Theme Details"
+msgstr ""
+
+#: admin/tab-pages/support.php:11 admin/tab-pages/support.php:13
+msgid "Contact Support"
+msgstr ""
+
+#: admin/tab-pages/support.php:12
+msgid ""
+"We want to make sure you have the best experience using this theme, and that "
+"is why we have gathered all the necessary information here for you. We hope "
+"you will enjoy using this theme as much as we enjoy creating great products."
+msgstr ""
+
+#: admin/tab-pages/support.php:19
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our changelog "
+"below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:10
+msgid "Why Upgrade to Pro?"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:15
+msgid ""
+"This feature helps you to rename the slug name from the URL, allowing you to "
+"make it SEO friendly."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid ""
+"In the premium version you will get a top header sidebar area where you can "
+"use any widget - all the widgets are styled. We have created a number of "
+"widgets in the theme which you can use here. Specifically, use the theme's "
+"Info Widget for showing your email ID, contact number or any other info of "
+"your choice."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid "Multi Level Navigation"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:30
+msgid ""
+"There are beautifully styled navigation/menus in this theme. You can make "
+"multi level menus, which means you can create sub menus."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:36
+msgid "Caption Slider"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:37
+msgid ""
+"You can create unlimited slides which you can control via the settings in "
+"Appearance >> Customize >> Slider settings. The slider supports various post "
+"formats like Standard, Aside, Quote, Chat and Video."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:44
+msgid "Service Features"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:46
+msgid ""
+"You can display any number of Services on the Homepage, with thousands of "
+"FontAwesome icons available. You can also display a set of services on a "
+"separate page by using the service-related page templates."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:52
+msgid "Portfolio Features"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid ""
+"Showcase any number of projects. This theme provides you with an option to "
+"create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column "
+"layout templates, respectively. If you have a number of projects to present "
+"then these templates are the answer. You can also create categorized "
+"portfolios, which display all the portfolio categories in a single place. In "
+"fact, we have coded this theme so that you can create any number of "
+"different portfolios."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid ""
+"This section is often used to display Latest News, Announcements and Events "
+"type content."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:67
+msgid "Testimonial Feature"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:68
+msgid ""
+"Testimonials are a powerful way to gain credibility. You can display "
+"testimonials with a carousel effect."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:76
+msgid ""
+"You will get 13 preset color schemes and you can even create your own "
+"favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:82
+msgid "Well Documented"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:83
+msgid ""
+"We provide good knowledgebase articles which will help you to create "
+"effective websites. You can visit these articles via our <a href='https://"
+"webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</"
+"a>."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:90
+msgid "Custom Widget"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:91
+msgid ""
+"Building a website with our custom widgets is very simple. Just place them "
+"inside the available sidebar or even in the content."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Translation Ready"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid ""
+"The theme supports yet another famous plugin: WPML. With the help of this "
+"support you can create a website available in multiple languages."
+msgstr ""
+
+#: footer.php:25
+msgid "Proudly powered by"
+msgstr ""
+
+#: footer.php:25
+msgid "https://wordpress.org"
+msgstr ""
+
+#: footer.php:25
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:25
+msgid "| Theme:"
+msgstr ""
+
+#: footer.php:25
+msgid "https://webriti.com"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: footer.php:25
+msgid "Appointment Dark"
+msgstr ""
+
+#: footer.php:25
+msgid "by Webriti"
+msgstr ""
+
+#: functions.php:81
+msgid "+99 999 99 999"
+msgstr ""
+
+#: functions.php:82
+msgid "fa fa-phone"
+msgstr ""
+
+#: functions.php:86
+msgid "fa fa-clock-o"
+msgstr ""
+
+#: functions.php:90
+msgid "abc@example.com"
+msgstr ""
+
+#: functions.php:91
+msgid "fa fa-envelope"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:7
+msgid "Footer Copyright Settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:14
+msgid "Social Links"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:35
+msgid "Hide footer social icons"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:54
+msgid "Facebook URL"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:71
+#: functions/customizer/customizer-copyright.php:107
+#: functions/customizer/customizer-copyright.php:142
+#: functions/customizer/customizer-copyright.php:177
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:90
+msgid "Twitter URL"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:125
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:160
+msgid "Skype URL"
+msgstr ""
+
+#: header.php:14
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:32
+msgid "Toggle navigation"
+msgstr ""
+
+#: index-news.php:59
+msgid "By"
+msgstr ""
+
+#: index-news.php:62
+msgid "Posted"
+msgstr ""
+
+#: index-news.php:70
+msgid "In"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/appointment-dark-details-page/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-left-sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog-right-sidebar"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr ""

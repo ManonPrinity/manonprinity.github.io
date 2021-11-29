@@ -1,0 +1,52 @@
+== Changelog ==
+
+@Version 1.2.2
+1. Updated some strings.
+
+@Version 1.2.1
+1. Fixed theme check warnings.
+2. Fixed widget design issues with WordPress 5.8.
+
+@Version 1.2
+1. Added custom color & typography features.
+2. Changed typography of the theme.
+
+@Version 1.1.2
+1. Removed the Google plus social icon.
+2. Fixed slider responsive issue.
+
+@Version 1.1.1
+1. Updated "Tested up to" field and fixed some style issues.
+
+@Version 1.1
+1. Fixed empty markup issue of the latest news section title & description.
+
+@Version 1.0
+1. Fixed header social icon issue.
+
+@Version 0.8
+1. Fixed Keyboard navigation and style issue.
+2. Removed Unnecessary code.
+3. Fixed "links within content must be underlined" issue.
+
+@Version 0.7
+1. Updated the options page.
+
+@Version 0.6
+1. Updated description in style.css and readme file.
+
+@Version 0.5
+1. Removed translation function from lorum ipsum dummy content.
+
+@Version 0.4
+1. Fixed menu and style issues.
+
+@Version 0.3
+1. Changed theme URI in style.css.
+
+@Version 0.2
+1. Update Free vs pro table in option page.
+2. Fixed escaping and style issues.
+
+@Version 0.1
+Released.
