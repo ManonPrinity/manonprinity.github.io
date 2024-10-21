@@ -1,5 +1,5 @@
 #main_header {animation: header_anim 10s linear infinite; box-sizing: border-box; position: relative; min-height: calc(100% - 128px); padding: 64px 0px; border-bottom: 1px solid #ccc; background-image: url("../img/io.png"); box-shadow: 0px 0px 4px #777; text-align: center;}
-	#main_header > h1 { font-size: 64px; color: #92cea9;}
+	#main_header > h1 { font-size: 64px; color: red;}
 	#main_header > p { font-size: 16px; color: #84bcb8;}
 	#main_header > p.slogan #acc { margin-bottom: 10px; }
 	#main_header > p.slogan { max-width: 600px; margin: 16px auto;}
